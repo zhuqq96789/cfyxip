@@ -27,7 +27,6 @@ def get_all_domains():
             
             # 等待表格出现
             page.wait_for_selector(".el-table__row", timeout=30000)
-            print("表格已加载")
             
             all_domains = set()
             
@@ -59,7 +58,7 @@ def get_all_domains():
                     return 0;
                 }
             """)
-            print(f"总数据量: {total_count} 条")
+            print(f"获取到网站当前总数据量: {total_count} 条")
             
             # 初始数据
             current_domains = get_current_page_domains()
@@ -132,11 +131,11 @@ def get_all_domains():
                     
                     all_domains.update(new_domains)
                     page_num += 1
-                    print(f"第{page_num}页: {len(new_domains)} 条")
+                    print(f"正在获取 第{page_num}页: {len(new_domains)} 条")
                     
                     # 检查是否达到总数
                     if total_count > 0 and len(all_domains) >= total_count:
-                        print(f"已获取全部 {total_count} 条数据")
+                        print(f"已获取网站全部数据 {total_count} 条")
                         break
                     
                 except Exception as e:
@@ -151,7 +150,7 @@ def get_all_domains():
             with open(file_path, "w", encoding="utf-8") as f:
                 f.write("\n".join(domain_list))
             
-            print(f"✅ 最终提取完成！共抓取到 {len(domain_list)} 个唯一域名")
+            print(f"数据提取保存完成！本次共获取到 {len(domain_list)} 条唯一域名！")
             return domain_list
             
         except Exception as e:
