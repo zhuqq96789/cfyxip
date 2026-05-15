@@ -551,7 +551,6 @@ yd.zhuqq.qzz.io
 yg1.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
-yg13.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org
 yg3.ygkkk.dpdns.org
 yg4.ygkkk.dpdns.org
