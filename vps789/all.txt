@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：05-16 19:34
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：05-19 01:37
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -110,6 +110,7 @@ cf.78607323.xyz:443#cf.78607323.xyz
 cf.877771.xyz:443#cf.877771.xyz
 cf.877774.xyz:443#cf.877774.xyz
 cf.880849.xyz:443#cf.880849.xyz
+cf.92555.xyz:443#cf.92555.xyz
 cf.996616.xyz:443#cf.996616.xyz
 cf.998866.top:443#cf.998866.top
 cf.affection.dpdns.org:443#cf.affection.dpdns.org
@@ -443,6 +444,7 @@ vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
 visa.com:443#visa.com
 visa.com.tw:443#visa.com.tw
+vps.cheng2001.top:443#vps.cheng2001.top
 vsscf.top:443#vsscf.top
 vueframework.com:443#vueframework.com
 w3.org:443#w3.org
