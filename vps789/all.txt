@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：05-21 02:04
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：05-23 00:41
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -365,6 +365,7 @@ prizepicks.com:443#prizepicks.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 pt.btschool.club:443#pt.btschool.club
 pttime.org:443#pttime.org
+pubs.acs.org:443#pubs.acs.org
 pure.coupert.com:443#pure.coupert.com
 pwjbl.me:443#pwjbl.me
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
