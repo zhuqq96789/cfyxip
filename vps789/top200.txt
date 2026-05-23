@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：05-23 00:41
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：05-23 19:48
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -123,6 +123,7 @@ cf.godns.cc:443#cf.godns.cc
 cf.jzlh99.com:443#cf.jzlh99.com
 cf.legspcpd.furry.bz:443#cf.legspcpd.furry.bz
 cf.mubaiovo.top:443#cf.mubaiovo.top
+cf.nyanya.moe:443#cf.nyanya.moe
 cf.te.lezi.chat:443#cf.te.lezi.chat
 cf.tencentapp.cn:443#cf.tencentapp.cn
 cf.tvtv.de5.net:443#cf.tvtv.de5.net
@@ -198,5 +199,4 @@ ct.78607323.xyz:443#ct.78607323.xyz
 ct.877774.xyz:443#ct.877774.xyz
 ct.880849.xyz:443#ct.880849.xyz
 ct.hw.090227.xyz:443#ct.hw.090227.xyz
-ctlmt.info:443#ctlmt.info
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
