@@ -123,10 +123,12 @@ cf.jzlh99.com
 cf.legspcpd.furry.bz
 cf.mubaiovo.top
 cf.nyanya.moe
+cf.qq.ms
 cf.te.lezi.chat
 cf.tencentapp.cn
 cf.tvtv.de5.net
 cf.v8.longsays.com
+cf.vvhan.com
 cf.xnet.ren
 cf.zhetengsha.eu.org
 cf1.v8.longsays.com
@@ -186,6 +188,7 @@ cn.vuejs.org
 cnamefuckxxs.yuchen.icu
 cnllm.com
 codeforces.com
+coke.cf.3666888.xyz
 constitution.congress.gov
 coreweave.com
 cozylife.app

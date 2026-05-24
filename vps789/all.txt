@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：05-23 19:48
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：05-24 19:56
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -124,10 +124,12 @@ cf.jzlh99.com:443#cf.jzlh99.com
 cf.legspcpd.furry.bz:443#cf.legspcpd.furry.bz
 cf.mubaiovo.top:443#cf.mubaiovo.top
 cf.nyanya.moe:443#cf.nyanya.moe
+cf.qq.ms:443#cf.qq.ms
 cf.te.lezi.chat:443#cf.te.lezi.chat
 cf.tencentapp.cn:443#cf.tencentapp.cn
 cf.tvtv.de5.net:443#cf.tvtv.de5.net
 cf.v8.longsays.com:443#cf.v8.longsays.com
+cf.vvhan.com:443#cf.vvhan.com
 cf.xnet.ren:443#cf.xnet.ren
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
@@ -187,6 +189,7 @@ cn.vuejs.org:443#cn.vuejs.org
 cnamefuckxxs.yuchen.icu:443#cnamefuckxxs.yuchen.icu
 cnllm.com:443#cnllm.com
 codeforces.com:443#codeforces.com
+coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 constitution.congress.gov:443#constitution.congress.gov
 coreweave.com:443#coreweave.com
 cozylife.app:443#cozylife.app
