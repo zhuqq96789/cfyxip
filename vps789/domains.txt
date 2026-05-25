@@ -179,6 +179,7 @@ cloudflare.rainyfall.com
 cloudflare.tv
 cm.78607323.xyz
 cm.880849.xyz
+cm.edu.kg
 cmcc.090227.xyz
 cmcc.877774.xyz
 cmcc.cc.cd
@@ -194,6 +195,7 @@ coreweave.com
 cozylife.app
 crinacle.com
 crowdstrike.com
+crypto.cloudflare.com
 csgo.com
 ct.090227.xyz
 ct.721660.xyz
