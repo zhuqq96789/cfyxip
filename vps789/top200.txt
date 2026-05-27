@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：05-26 00:36
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：05-28 02:13
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -26,6 +26,7 @@ ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：05-26 00:36
 777.ai7777777.xyz:443#777.ai7777777.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 859ct.cc:443#859ct.cc
+9.c.2.0.9.1.0.0.0.7.4.0.1.0.0.2.ip6.arpa:443#9.c.2.0.9.1.0.0.0.7.4.0.1.0.0.2.ip6.arpa
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 99.co:443#99.co
 9mod.com:443#9mod.com
@@ -198,5 +199,4 @@ crinacle.com:443#crinacle.com
 crowdstrike.com:443#crowdstrike.com
 crypto.cloudflare.com:443#crypto.cloudflare.com
 csgo.com:443#csgo.com
-ct.090227.xyz:443#ct.090227.xyz
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
