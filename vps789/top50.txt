@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：05-28 02:13
+ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：05-30 02:21
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -8,6 +8,7 @@ ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：05-28 02:13
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 111.cf.cname.vvhan.com:443#111.cf.cname.vvhan.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 16k.club:443#16k.club
 1749991941.bilibiliapp.cn:443#1749991941.bilibiliapp.cn
 1757760858.tencentapp.cn:443#1757760858.tencentapp.cn
@@ -48,5 +49,4 @@ ali.nonull.pp.ua:443#ali.nonull.pp.ua
 animal.nuaa.tech:443#animal.nuaa.tech
 anycubic.com:443#anycubic.com
 api.cloudflare.com:443#api.cloudflare.com
-api.gzcrtw.com:443#api.gzcrtw.com
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测

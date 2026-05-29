@@ -7,6 +7,7 @@
 11.cf.3666888.xyz
 111.cf.cname.vvhan.com
 123.cf.3666888.xyz
+131.youxuan.cf.090227.xyz
 16k.club
 1749991941.bilibiliapp.cn
 1757760858.tencentapp.cn
@@ -72,6 +73,7 @@ c-power.com.cn
 c.lma.de5.net
 carpt.net
 cdn.091224.xyz
+cdn.1689655810.dpdns.org
 cdn.2020111.xyz
 cdn.204910.best
 cdn.2158.cc
