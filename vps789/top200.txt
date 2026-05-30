@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：05-30 02:21
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：05-30 20:13
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -134,6 +134,7 @@ cf.tvtv.de5.net:443#cf.tvtv.de5.net
 cf.v8.longsays.com:443#cf.v8.longsays.com
 cf.vvhan.com:443#cf.vvhan.com
 cf.xnet.ren:443#cf.xnet.ren
+cf.xycf.asia:443#cf.xycf.asia
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
@@ -198,5 +199,4 @@ constitution.congress.gov:443#constitution.congress.gov
 coreweave.com:443#coreweave.com
 cozylife.app:443#cozylife.app
 crinacle.com:443#crinacle.com
-crowdstrike.com:443#crowdstrike.com
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
