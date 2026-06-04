@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-04 04:31
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-05 01:58
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -266,6 +266,7 @@ fn.130519.xyz:443#fn.130519.xyz
 form.assaabloy.com:443#form.assaabloy.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 ftm.omnihuman.games:443#ftm.omnihuman.games
+funko.com:443#funko.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 g.lma.de5.net:443#g.lma.de5.net
 gateway.ipfsscan.io:443#gateway.ipfsscan.io
@@ -336,6 +337,7 @@ lose.edu.eu.org:443#lose.edu.eu.org
 lt.zhuqq.qzz.io:443#lt.zhuqq.qzz.io
 m.cloudflare.182682.xyz:443#m.cloudflare.182682.xyz
 m.iyf.tv:443#m.iyf.tv
+mail.murata.com:443#mail.murata.com
 markmonitor.com:443#markmonitor.com
 mfa.gov.ua:443#mfa.gov.ua
 missav.ws:443#missav.ws
