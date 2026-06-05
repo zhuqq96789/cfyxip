@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-05 01:58
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-05 19:36
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -525,6 +525,7 @@ www.petronaftco.com:443#www.petronaftco.com
 www.postman.com:443#www.postman.com
 www.redboxtools.com:443#www.redboxtools.com
 www.revechat.com:443#www.revechat.com
+www.roche.com:443#www.roche.com
 www.sage.com:443#www.sage.com
 www.scayle.com:443#www.scayle.com
 www.shopify.com:443#www.shopify.com
