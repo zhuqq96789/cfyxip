@@ -245,6 +245,7 @@ dynadot.com
 e.lma.de5.net
 eason.cf.lma.de5.net
 easylist.to
+edgeone.gh-proxy.org
 egov.uscis.gov
 eii.at
 elegantthemes.com
@@ -497,6 +498,7 @@ www.gocoin.pro
 www.gov.il
 www.government.is
 www.habia.com
+www.hdmoli.com
 www.hugedomains.com
 www.hypixel.net
 www.itedev.com
