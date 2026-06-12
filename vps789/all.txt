@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-11 20:18
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-12 19:53
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -396,6 +396,7 @@ saas.072159.xyz:443#saas.072159.xyz
 saas.sin.fan:443#saas.sin.fan
 salaryexpert.com:443#salaryexpert.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa:443#sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa
 scalacube.com:443#scalacube.com
 sci-hub.al:443#sci-hub.al
 securecircle.com:443#securecircle.com
