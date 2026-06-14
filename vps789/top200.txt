@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：06-12 19:53
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：06-14 19:08
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -124,6 +124,7 @@ cf.cnae.top:443#cf.cnae.top
 cf.cooteep.com:443#cf.cooteep.com
 cf.duun.eu.cc:443#cf.duun.eu.cc
 cf.godns.cc:443#cf.godns.cc
+cf.itv888.cn:443#cf.itv888.cn
 cf.jzlh99.com:443#cf.jzlh99.com
 cf.legspcpd.furry.bz:443#cf.legspcpd.furry.bz
 cf.mubaiovo.top:443#cf.mubaiovo.top
@@ -198,5 +199,4 @@ codeforces.com:443#codeforces.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 constitution.congress.gov:443#constitution.congress.gov
 coreweave.com:443#coreweave.com
-cozylife.app:443#cozylife.app
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
