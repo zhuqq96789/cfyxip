@@ -117,12 +117,14 @@ cf.92555.xyz
 cf.996616.xyz
 cf.998866.top
 cf.affection.dpdns.org
+cf.blogluo.eu.org
 cf.cdn.smallbottle2.top
 cf.cf.3666888.xyz
 cf.cnae.top
 cf.cooteep.com
 cf.duun.eu.cc
 cf.godns.cc
+cf.i0.du0.org
 cf.itv888.cn
 cf.jzlh99.com
 cf.legspcpd.furry.bz
@@ -388,6 +390,7 @@ qoj.ac
 qualitytraining.zeiss.com
 qy.cf.727672.xyz
 racerseseries.sky.com
+reader.sudorm.su
 redis.io
 resources.biginterview.com
 rocketreach.co
