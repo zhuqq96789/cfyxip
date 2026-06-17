@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-16 21:04
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-17 20:26
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -20,6 +20,7 @@ ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-16 21:04
 336688.chinwa.eu.cc:443#336688.chinwa.eu.cc
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 47bt.com:443#47bt.com
+4gxb7l7p40.cloudflare-gateway.com:443#4gxb7l7p40.cloudflare-gateway.com
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 628gr.cc:443#628gr.cc
