@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-17 20:26
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-18 19:58
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -33,6 +33,7 @@ ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-17 20:26
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 99.co:443#99.co
 9mod.com:443#9mod.com
+ChinaTelecom.youxuan.zmxf.cc.cd:443#ChinaTelecom.youxuan.zmxf.cc.cd
 a.cf.cnae.top:443#a.cf.cnae.top
 a.cloudflare.182682.xyz:443#a.cloudflare.182682.xyz
 a.lma.de5.net:443#a.lma.de5.net
@@ -84,6 +85,7 @@ cdn.262832.xyz:443#cdn.262832.xyz
 cdn.2x.nz:443#cdn.2x.nz
 cdn.31514926.xyz:443#cdn.31514926.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
+cdn.667891.xyz:443#cdn.667891.xyz
 cdn.788555.xyz:443#cdn.788555.xyz
 cdn.7zz.cn:443#cdn.7zz.cn
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
