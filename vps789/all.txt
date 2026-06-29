@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-23 19:29
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：06-29 20:42
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -458,6 +458,7 @@ upfile.live:443#upfile.live
 uptimerobot.com:443#uptimerobot.com
 urlreg.cat.com:443#urlreg.cat.com
 us.102198.xyz:443#us.102198.xyz
+us.5977817.cc.cd:443#us.5977817.cc.cd
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 uspto.gov:443#uspto.gov
 v.recipes:443#v.recipes
