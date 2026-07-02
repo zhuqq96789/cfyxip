@@ -141,6 +141,7 @@ cf.v8.longsays.com
 cf.vvhan.com
 cf.xnet.ren
 cf.xycf.asia
+cf.yfjc.sbs
 cf.zhetengsha.eu.org
 cf1.v8.longsays.com
 cf1s.cf.3666888.xyz
@@ -265,6 +266,7 @@ emos.prlo.de
 encryptedsni.com
 envato.com
 eteaf.cf.3666888.xyz
+ex.warspite.dpdns.org
 f.lma.de5.net
 fbi.gov
 fenliu.072103.xyz
