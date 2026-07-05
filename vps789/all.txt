@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-04 18:24
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-05 18:27
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -225,6 +225,7 @@ cu.880849.xyz:443#cu.880849.xyz
 cu.cs2ze.top:443#cu.cs2ze.top
 cu.hw.090227.xyz:443#cu.hw.090227.xyz
 d.lma.de5.net:443#d.lma.de5.net
+da.mfa.gov.ua:443#da.mfa.gov.ua
 dango.co:443#dango.co
 dash.cloudflare.com:443#dash.cloudflare.com
 ddk.cfyx.20237737.xyz:443#ddk.cfyx.20237737.xyz
@@ -308,6 +309,7 @@ icook.tw:443#icook.tw
 idc.urkeji.com:443#idc.urkeji.com
 iili.io:443#iili.io
 ikankeji.com:443#ikankeji.com
+img.856518.xyz:443#img.856518.xyz
 img.css.sd:443#img.css.sd
 img.dexbug.com:443#img.dexbug.com
 img.erpweb.eu.org:443#img.erpweb.eu.org
