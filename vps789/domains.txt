@@ -227,6 +227,7 @@ d.lma.de5.net
 da.mfa.gov.ua
 dango.co
 dash.cloudflare.com
+dash.domain.digitalplat.org
 ddk.cfyx.20237737.xyz
 de.102198.xyz
 debot.ai
