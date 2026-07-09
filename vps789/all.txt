@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-07 19:18
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-09 19:17
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -336,6 +336,7 @@ jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 jquery.com:443#jquery.com
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 kernelsu.com:443#kernelsu.com
+kick.com:443#kick.com
 kickstarter.com:443#kickstarter.com
 kniu.cc:443#kniu.cc
 komga.aqua-aria.company:443#komga.aqua-aria.company
