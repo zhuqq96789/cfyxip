@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-09 19:17
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-11 17:47
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -607,6 +607,7 @@ youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 ys2046.cv:443#ys2046.cv
 yx.cf.090227.xyz:443#yx.cf.090227.xyz
 yx.cfcdn.bbroot.com:443#yx.cfcdn.bbroot.com
+yx.oracle-img.eu.org:443#yx.oracle-img.eu.org
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 yyurl.cc:443#yyurl.cc
 zabc.net:443#zabc.net
