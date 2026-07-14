@@ -75,6 +75,7 @@ buyshoes.shop
 c-power.com.cn
 c.lma.de5.net
 carpt.net
+cdn-1.dogeggo.us.ci
 cdn.091224.xyz
 cdn.1689655810.dpdns.org
 cdn.2020111.xyz
@@ -90,6 +91,7 @@ cdn.7zz.cn
 cdn.cf.3666888.xyz
 cdn.cnno.de
 cdn.ddeed.de
+cdn.fiatnorm.us.kg
 cdn.nodeimage.com
 cdn.tzpro.xyz
 cdn.violet.vin
@@ -120,6 +122,7 @@ cf.92555.xyz
 cf.996616.xyz
 cf.998866.top
 cf.affection.dpdns.org
+cf.blogluo.eu.org
 cf.cdn.smallbottle2.top
 cf.cf.3666888.xyz
 cf.cnae.top

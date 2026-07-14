@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-13 19:28
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-14 18:08
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -76,6 +76,7 @@ buyshoes.shop:443#buyshoes.shop
 c-power.com.cn:443#c-power.com.cn
 c.lma.de5.net:443#c.lma.de5.net
 carpt.net:443#carpt.net
+cdn-1.dogeggo.us.ci:443#cdn-1.dogeggo.us.ci
 cdn.091224.xyz:443#cdn.091224.xyz
 cdn.1689655810.dpdns.org:443#cdn.1689655810.dpdns.org
 cdn.2020111.xyz:443#cdn.2020111.xyz
@@ -91,6 +92,7 @@ cdn.7zz.cn:443#cdn.7zz.cn
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cdn.cnno.de:443#cdn.cnno.de
 cdn.ddeed.de:443#cdn.ddeed.de
+cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cdn.nodeimage.com:443#cdn.nodeimage.com
 cdn.tzpro.xyz:443#cdn.tzpro.xyz
 cdn.violet.vin:443#cdn.violet.vin
@@ -121,6 +123,7 @@ cf.92555.xyz:443#cf.92555.xyz
 cf.996616.xyz:443#cf.996616.xyz
 cf.998866.top:443#cf.998866.top
 cf.affection.dpdns.org:443#cf.affection.dpdns.org
+cf.blogluo.eu.org:443#cf.blogluo.eu.org
 cf.cdn.smallbottle2.top:443#cf.cdn.smallbottle2.top
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cf.cnae.top:443#cf.cnae.top
