@@ -2,6 +2,7 @@
 01-cctv.com
 01-qq.com
 1.cf.3666888.xyz
+1.cfip.xiaolicdn.cn
 1.cloudflare.19931110.xyz
 10.cf.3666888.xyz
 101yaoye.com
@@ -13,9 +14,11 @@
 1749991941.bilibiliapp.cn
 1757760858.tencentapp.cn
 2.cf.3666888.xyz
+2.cfip.xiaolicdn.cn
 278vd.cc
 2x.nz
 3.cf.3666888.xyz
+3.cfip.xiaolicdn.cn
 336688.chinwa.eu.cc
 4.cf.3666888.xyz
 47bt.com

@@ -1,8 +1,9 @@
-ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：07-14 18:08
+ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：07-23 18:34
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
+1.cfip.xiaolicdn.cn:443#1.cfip.xiaolicdn.cn
 1.cloudflare.19931110.xyz:443#1.cloudflare.19931110.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 101yaoye.com:443#101yaoye.com
@@ -14,9 +15,11 @@ ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：07-14 18:08
 1749991941.bilibiliapp.cn:443#1749991941.bilibiliapp.cn
 1757760858.tencentapp.cn:443#1757760858.tencentapp.cn
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
+2.cfip.xiaolicdn.cn:443#2.cfip.xiaolicdn.cn
 278vd.cc:443#278vd.cc
 2x.nz:443#2x.nz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
+3.cfip.xiaolicdn.cn:443#3.cfip.xiaolicdn.cn
 336688.chinwa.eu.cc:443#336688.chinwa.eu.cc
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 47bt.com:443#47bt.com
@@ -46,7 +49,4 @@ academy.mastercard.com:443#academy.mastercard.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 aftership.com:443#aftership.com
 ahblog.cn:443#ahblog.cn
-ahrefs.com:443#ahrefs.com
-aistudio.zabc.net:443#aistudio.zabc.net
-ali.nonull.pp.ua:443#ali.nonull.pp.ua
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
