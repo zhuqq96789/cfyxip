@@ -286,6 +286,7 @@ ftm.omnihuman.games
 funko.com
 fw8je9.cf.3666888.xyz
 g.lma.de5.net
+garuda-indonesia.com
 gateway.ipfsscan.io
 gh-proxy.com
 gitlab.com
@@ -338,6 +339,7 @@ jojolsj.jojojing.top
 journeys.com
 jp.cf.3666888.xyz
 jquery.com
+kaspa.stream
 keji.cf.3666888.xyz
 kernelsu.com
 kick.com
