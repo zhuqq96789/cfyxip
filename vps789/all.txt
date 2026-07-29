@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-24 18:28
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：07-29 18:48
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -52,11 +52,13 @@ ahblog.cn:443#ahblog.cn
 ahrefs.com:443#ahrefs.com
 aistudio.zabc.net:443#aistudio.zabc.net
 ali.nonull.pp.ua:443#ali.nonull.pp.ua
+alternativeto.net:443#alternativeto.net
 animal.nuaa.tech:443#animal.nuaa.tech
 anycubic.com:443#anycubic.com
 api.cloudflare.com:443#api.cloudflare.com
 api.gzcrtw.com:443#api.gzcrtw.com
 api.uniapi.io:443#api.uniapi.io
+appstorrent.ru:443#appstorrent.ru
 aqua-aria.company:443#aqua-aria.company
 athome.com:443#athome.com
 auto.dolby.dpdns.org:443#auto.dolby.dpdns.org
@@ -295,6 +297,7 @@ glitterx.cloud:443#glitterx.cloud
 go1.dematic.com:443#go1.dematic.com
 grass.io:443#grass.io
 greim.no:443#greim.no
+griditapp.com:443#griditapp.com
 guide.for.edu.sg:443#guide.for.edu.sg
 hashi.sbs:443#hashi.sbs
 helium.computer:443#helium.computer
@@ -322,6 +325,7 @@ img.dexbug.com:443#img.dexbug.com
 img.erpweb.eu.org:443#img.erpweb.eu.org
 img.imgdd.com:443#img.imgdd.com
 imooo.de:443#imooo.de
+infinitemac.org:443#infinitemac.org
 informahealthcare.com:443#informahealthcare.com
 investor.apple.com:443#investor.apple.com
 investorrelations.medtronic.com:443#investorrelations.medtronic.com
@@ -360,6 +364,7 @@ lose.edu.eu.org:443#lose.edu.eu.org
 lt.zhuqq.qzz.io:443#lt.zhuqq.qzz.io
 m.cloudflare.182682.xyz:443#m.cloudflare.182682.xyz
 m.iyf.tv:443#m.iyf.tv
+macked.app:443#macked.app
 mail.murata.com:443#mail.murata.com
 markmonitor.com:443#markmonitor.com
 mfa.gov.ua:443#mfa.gov.ua
@@ -370,6 +375,7 @@ mogas.com:443#mogas.com
 moodle.org:443#moodle.org
 moondroplab.com:443#moondroplab.com
 mox.moxing.lol:443#mox.moxing.lol
+mrmacintosh.com:443#mrmacintosh.com
 mskcc.org:443#mskcc.org
 mvnrepository.com:443#mvnrepository.com
 my.dnshe.com:443#my.dnshe.com
@@ -444,6 +450,7 @@ staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 stlouiscountymo.gov:443#stlouiscountymo.gov
 stonexbullion.com:443#stonexbullion.com
 store.epicgames.com:443#store.epicgames.com
+store.rg-adguard.net:443#store.rg-adguard.net
 store.ubi.com:443#store.ubi.com
 store.ubisoft.com:443#store.ubisoft.com
 stores.staples.com:443#stores.staples.com
@@ -489,6 +496,7 @@ vueframework.com:443#vueframework.com
 w3.org:443#w3.org
 wallpaperflare.com:443#wallpaperflare.com
 webn.cc:443#webn.cc
+worldvectorlogo.com:443#worldvectorlogo.com
 wppaunz.com:443#wppaunz.com
 www.4429.com.cn:443#www.4429.com.cn
 www.5199dy.com:443#www.5199dy.com
@@ -537,6 +545,7 @@ www.libvio.site:443#www.libvio.site
 www.mastervolt.com:443#www.mastervolt.com
 www.maxcom.de:443#www.maxcom.de
 www.mc.js.cool:443#www.mc.js.cool
+www.mediafire.com:443#www.mediafire.com
 www.meteorelectrical.com:443#www.meteorelectrical.com
 www.mfyx.cn:443#www.mfyx.cn
 www.mlkj888.com:443#www.mlkj888.com

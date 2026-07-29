@@ -51,11 +51,13 @@ ahblog.cn
 ahrefs.com
 aistudio.zabc.net
 ali.nonull.pp.ua
+alternativeto.net
 animal.nuaa.tech
 anycubic.com
 api.cloudflare.com
 api.gzcrtw.com
 api.uniapi.io
+appstorrent.ru
 aqua-aria.company
 athome.com
 auto.dolby.dpdns.org
@@ -294,6 +296,7 @@ glitterx.cloud
 go1.dematic.com
 grass.io
 greim.no
+griditapp.com
 guide.for.edu.sg
 hashi.sbs
 helium.computer
@@ -321,6 +324,7 @@ img.dexbug.com
 img.erpweb.eu.org
 img.imgdd.com
 imooo.de
+infinitemac.org
 informahealthcare.com
 investor.apple.com
 investorrelations.medtronic.com
@@ -359,6 +363,7 @@ lose.edu.eu.org
 lt.zhuqq.qzz.io
 m.cloudflare.182682.xyz
 m.iyf.tv
+macked.app
 mail.murata.com
 markmonitor.com
 mfa.gov.ua
@@ -369,6 +374,7 @@ mogas.com
 moodle.org
 moondroplab.com
 mox.moxing.lol
+mrmacintosh.com
 mskcc.org
 mvnrepository.com
 my.dnshe.com
@@ -443,6 +449,7 @@ staticdelivery.nexusmods.com
 stlouiscountymo.gov
 stonexbullion.com
 store.epicgames.com
+store.rg-adguard.net
 store.ubi.com
 store.ubisoft.com
 stores.staples.com
@@ -488,6 +495,7 @@ vueframework.com
 w3.org
 wallpaperflare.com
 webn.cc
+worldvectorlogo.com
 wppaunz.com
 www.4429.com.cn
 www.5199dy.com
@@ -536,6 +544,7 @@ www.libvio.site
 www.mastervolt.com
 www.maxcom.de
 www.mc.js.cool
+www.mediafire.com
 www.meteorelectrical.com
 www.mfyx.cn
 www.mlkj888.com

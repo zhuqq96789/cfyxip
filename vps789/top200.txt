@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：07-24 18:28
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：07-29 18:48
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -52,11 +52,13 @@ ahblog.cn:443#ahblog.cn
 ahrefs.com:443#ahrefs.com
 aistudio.zabc.net:443#aistudio.zabc.net
 ali.nonull.pp.ua:443#ali.nonull.pp.ua
+alternativeto.net:443#alternativeto.net
 animal.nuaa.tech:443#animal.nuaa.tech
 anycubic.com:443#anycubic.com
 api.cloudflare.com:443#api.cloudflare.com
 api.gzcrtw.com:443#api.gzcrtw.com
 api.uniapi.io:443#api.uniapi.io
+appstorrent.ru:443#appstorrent.ru
 aqua-aria.company:443#aqua-aria.company
 athome.com:443#athome.com
 auto.dolby.dpdns.org:443#auto.dolby.dpdns.org
@@ -197,6 +199,4 @@ cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 cloudflare.tv:443#cloudflare.tv
 cm.78607323.xyz:443#cm.78607323.xyz
 cm.880849.xyz:443#cm.880849.xyz
-cm.edu.kg:443#cm.edu.kg
-cmcc.090227.xyz:443#cmcc.090227.xyz
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
