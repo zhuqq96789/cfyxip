@@ -15,6 +15,7 @@
 1757760858.tencentapp.cn
 2.cf.3666888.xyz
 2.cfip.xiaolicdn.cn
+224322.xyz
 278vd.cc
 2x.nz
 3.cf.3666888.xyz
@@ -394,6 +395,7 @@ nodeloc.cc
 npmjs.com
 nrt.xxxxxxxx.nyc.mn
 nrtcfdns.zone.id
+oo.xzhi.eu.org
 op.chinwa.eu.cc
 openai.com
 ovpnspider.com
