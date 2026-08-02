@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-01 18:09
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-02 18:07
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -523,6 +523,7 @@ www.cancilleria.gov.co:443#www.cancilleria.gov.co
 www.carousell.sg:443#www.carousell.sg
 www.cdzxdz.com:443#www.cdzxdz.com
 www.crazygames.fr:443#www.crazygames.fr
+www.deepl.com:443#www.deepl.com
 www.dentoncounty.gov:443#www.dentoncounty.gov
 www.dg22.top:443#www.dg22.top
 www.doiting.com:443#www.doiting.com
