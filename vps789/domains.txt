@@ -101,6 +101,7 @@ cdn.fiatnorm.us.kg
 cdn.nodeimage.com
 cdn.tzpro.xyz
 cdn.violet.vin
+cdn.wzkf88.com
 cdnjs.cloudflare.com
 cdnjs.com
 cdns.doon.eu.org
@@ -353,7 +354,6 @@ kick.com
 kickstarter.com
 kniu.cc
 komga.aqua-aria.company
-kuaidianlian.com.cn
 kuncdn.com
 kwiat.com
 laitemi.com
@@ -368,6 +368,7 @@ m.cloudflare.182682.xyz
 m.iyf.tv
 macked.app
 mail.murata.com
+mail.zrf.me
 markmonitor.com
 mfa.gov.ua
 missav.ws
@@ -445,7 +446,6 @@ singapore.com
 skk.moe
 sni.111000.dynv6.net
 snipaste1.speedip.eu.org
-snipaste5.speedip.eu.org
 so.360832.xyz
 sourceforge.net
 spirol.com

@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-02 18:07
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-03 19:41
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -102,6 +102,7 @@ cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cdn.nodeimage.com:443#cdn.nodeimage.com
 cdn.tzpro.xyz:443#cdn.tzpro.xyz
 cdn.violet.vin:443#cdn.violet.vin
+cdn.wzkf88.com:443#cdn.wzkf88.com
 cdnjs.cloudflare.com:443#cdnjs.cloudflare.com
 cdnjs.com:443#cdnjs.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
@@ -354,7 +355,6 @@ kick.com:443#kick.com
 kickstarter.com:443#kickstarter.com
 kniu.cc:443#kniu.cc
 komga.aqua-aria.company:443#komga.aqua-aria.company
-kuaidianlian.com.cn:443#kuaidianlian.com.cn
 kuncdn.com:443#kuncdn.com
 kwiat.com:443#kwiat.com
 laitemi.com:443#laitemi.com
@@ -369,6 +369,7 @@ m.cloudflare.182682.xyz:443#m.cloudflare.182682.xyz
 m.iyf.tv:443#m.iyf.tv
 macked.app:443#macked.app
 mail.murata.com:443#mail.murata.com
+mail.zrf.me:443#mail.zrf.me
 markmonitor.com:443#markmonitor.com
 mfa.gov.ua:443#mfa.gov.ua
 missav.ws:443#missav.ws
@@ -446,7 +447,6 @@ singapore.com:443#singapore.com
 skk.moe:443#skk.moe
 sni.111000.dynv6.net:443#sni.111000.dynv6.net
 snipaste1.speedip.eu.org:443#snipaste1.speedip.eu.org
-snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 so.360832.xyz:443#so.360832.xyz
 sourceforge.net:443#sourceforge.net
 spirol.com:443#spirol.com
