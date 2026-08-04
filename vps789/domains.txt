@@ -76,6 +76,7 @@ bestcfv4.030101.xyz
 bitsight.com
 blog.646474.xyz
 blog.raindew.576555.xyz
+brandstudio.com
 builtbybuffalo.com
 buyshoes.shop
 c-power.com.cn
@@ -99,6 +100,7 @@ cdn.cnno.de
 cdn.ddeed.de
 cdn.fiatnorm.us.kg
 cdn.nodeimage.com
+cdn.sketch.com
 cdn.tzpro.xyz
 cdn.violet.vin
 cdn.wzkf88.com
@@ -294,6 +296,7 @@ fw8je9.cf.3666888.xyz
 g.lma.de5.net
 garuda-indonesia.com
 gateway.ipfsscan.io
+get.pixelexperience.org
 gh-proxy.com
 gitlab.com
 glitterx.cloud
@@ -306,6 +309,7 @@ hashi.sbs
 helium.computer
 help.kolet.com
 help.x.com
+hentaiverse.org
 hfqek.cf.3666888.xyz
 hitcon.org
 hk.cf.3666888.xyz
@@ -317,6 +321,7 @@ hy.aaw.qzz.io
 hzytjy.cn
 i.111666.best
 i.pages.dev
+i.pixiv.re
 icook.hk
 icook.tw
 idc.urkeji.com
@@ -392,11 +397,14 @@ newsroom.avalara.com
 nexusmods.com
 nhentai.net
 nist.gov
+noc.one
+nodejs.org
 nodeloc.cc
 npmjs.com
 nrt.xxxxxxxx.nyc.mn
 nrtcfdns.zone.id
 oo.xzhi.eu.org
+ooo.0o0.ooo
 op.chinwa.eu.cc
 openai.com
 ovpnspider.com
@@ -420,8 +428,11 @@ qoj.ac
 qualitytraining.zeiss.com
 qy.cf.727672.xyz
 racerseseries.sky.com
+rarbg.proxyninja.org
+rargb.to
 reader.sudorm.su
 redis.io
+registry.npmjs.org
 resources.biginterview.com
 rocketreach.co
 run.254301.xyz
@@ -521,6 +532,7 @@ www.canadatype.com
 www.cancilleria.gov.co
 www.carousell.sg
 www.cdzxdz.com
+www.chess.com
 www.crazygames.fr
 www.deepl.com
 www.dentoncounty.gov
@@ -563,7 +575,9 @@ www.ntu.edu.sg
 www.oopt.eu.cc
 www.ox.ac.uk
 www.petronaftco.com
+www.pixelexperience.org
 www.postman.com
+www.proxyrarbg.to
 www.redboxtools.com
 www.revechat.com
 www.roche.com
@@ -598,6 +612,7 @@ www.wuduanyun.com
 www.xflash.vip
 www.xiaoshuofen.com
 www.yutank.com
+www2.rarbggo.to
 wxp.l2.ink
 x.com
 xiaoqi.de
