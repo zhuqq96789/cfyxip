@@ -97,6 +97,7 @@ cdn.788555.xyz
 cdn.7zz.cn
 cdn.cf.3666888.xyz
 cdn.cnno.de
+cdn.ctn32.us.kg
 cdn.ddeed.de
 cdn.fiatnorm.us.kg
 cdn.nodeimage.com
@@ -327,6 +328,7 @@ icook.tw
 idc.urkeji.com
 iili.io
 ikankeji.com
+images.chesscomfiles.com
 img.856518.xyz
 img.css.sd
 img.dexbug.com
@@ -436,6 +438,7 @@ registry.npmjs.org
 resources.biginterview.com
 rocketreach.co
 run.254301.xyz
+s.ee
 saas.072159.xyz
 saas.sin.fan
 salaryexpert.com
