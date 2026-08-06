@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：08-05 18:45
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：08-06 18:48
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -51,26 +51,20 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 aftership.com:443#aftership.com
 ahblog.cn:443#ahblog.cn
 ahrefs.com:443#ahrefs.com
-aistudio.zabc.net:443#aistudio.zabc.net
 ali.nonull.pp.ua:443#ali.nonull.pp.ua
 alternativeto.net:443#alternativeto.net
-animal.nuaa.tech:443#animal.nuaa.tech
-anycubic.com:443#anycubic.com
 api.cloudflare.com:443#api.cloudflare.com
 api.gzcrtw.com:443#api.gzcrtw.com
 api.uniapi.io:443#api.uniapi.io
 appstorrent.ru:443#appstorrent.ru
 aqua-aria.company:443#aqua-aria.company
-athome.com:443#athome.com
 auto.dolby.dpdns.org:443#auto.dolby.dpdns.org
 autz.org:443#autz.org
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 b.lma.de5.net:443#b.lma.de5.net
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
-baka.fun:443#baka.fun
 baota.us.kg:443#baota.us.kg
 bbs.alipansou.com:443#bbs.alipansou.com
-bestbuyfillers.com:443#bestbuyfillers.com
 bestcf.030101.xyz:443#bestcf.030101.xyz
 bestcf.top:443#bestcf.top
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
@@ -142,7 +136,6 @@ cf.duun.eu.cc:443#cf.duun.eu.cc
 cf.godns.cc:443#cf.godns.cc
 cf.i0.du0.org:443#cf.i0.du0.org
 cf.itv888.cn:443#cf.itv888.cn
-cf.jzlh99.com:443#cf.jzlh99.com
 cf.legspcpd.furry.bz:443#cf.legspcpd.furry.bz
 cf.mubaiovo.top:443#cf.mubaiovo.top
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
@@ -173,7 +166,6 @@ cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 cfip-cu.seave.top:443#cfip-cu.seave.top
 cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
 cfip.1323123.xyz:443#cfip.1323123.xyz
-cfip.cfcdn.vip:443#cfip.cfcdn.vip
 cfip.xxxxxxxx.tk:443#cfip.xxxxxxxx.tk
 cfplus.255520.xyz:443#cfplus.255520.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
@@ -199,4 +191,12 @@ cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cloudflare.byoip.top:443#cloudflare.byoip.top
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cloudflare.cnae.top:443#cloudflare.cnae.top
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
+cloudflare.moeyy.xyz:443#cloudflare.moeyy.xyz
+cloudflare.net:443#cloudflare.net
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+cloudflare.tv:443#cloudflare.tv
+cm.78607323.xyz:443#cm.78607323.xyz
+cm.880849.xyz:443#cm.880849.xyz
+cm.edu.kg:443#cm.edu.kg
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测

@@ -50,26 +50,20 @@ adnjv.cf.3666888.xyz
 aftership.com
 ahblog.cn
 ahrefs.com
-aistudio.zabc.net
 ali.nonull.pp.ua
 alternativeto.net
-animal.nuaa.tech
-anycubic.com
 api.cloudflare.com
 api.gzcrtw.com
 api.uniapi.io
 appstorrent.ru
 aqua-aria.company
-athome.com
 auto.dolby.dpdns.org
 autz.org
 avido.cf.3666888.xyz
 b.lma.de5.net
 b3.cfyx.20237737.xyz
-baka.fun
 baota.us.kg
 bbs.alipansou.com
-bestbuyfillers.com
 bestcf.030101.xyz
 bestcf.top
 bestcfv4.030101.xyz
@@ -141,7 +135,6 @@ cf.duun.eu.cc
 cf.godns.cc
 cf.i0.du0.org
 cf.itv888.cn
-cf.jzlh99.com
 cf.legspcpd.furry.bz
 cf.mubaiovo.top
 cf.neko.cloudd.eu.org
@@ -172,7 +165,6 @@ cfip-ct.stoeaves.us.ci
 cfip-cu.seave.top
 cfip-cu.stoeaves.us.ci
 cfip.1323123.xyz
-cfip.cfcdn.vip
 cfip.xxxxxxxx.tk
 cfplus.255520.xyz
 cfsaas.080112.xyz
@@ -223,7 +215,6 @@ cozylife.app
 crinacle.com
 crowdstrike.com
 crypto.cloudflare.com
-csgo.com
 ct.090227.xyz
 ct.721660.xyz
 ct.78607323.xyz
@@ -363,7 +354,6 @@ kniu.cc
 komga.aqua-aria.company
 kuncdn.com
 kwiat.com
-laitemi.com
 leawo.org
 liantong.19931101.xyz
 linear.app
@@ -388,7 +378,6 @@ mox.moxing.lol
 mrmacintosh.com
 mskcc.org
 mvnrepository.com
-my.dnshe.com
 nas.chinwa.eu.cc
 ncc.gov.ng
 ncdc.gov.ng
@@ -427,7 +416,6 @@ pure.coupert.com
 pwjbl.me
 qocu.cf.3666888.xyz
 qoj.ac
-qualitytraining.zeiss.com
 qy.cf.727672.xyz
 racerseseries.sky.com
 rarbg.proxyninja.org
@@ -464,7 +452,6 @@ so.360832.xyz
 sourceforge.net
 spirol.com
 spring.io
-stackoverflow.com
 staticdelivery.nexusmods.com
 stlouiscountymo.gov
 stonexbullion.com
@@ -497,7 +484,6 @@ upfile.live
 uptimerobot.com
 urlreg.cat.com
 us.102198.xyz
-us.5977817.cc.cd
 us.cloudflare.cnae.top
 uspto.gov
 v.recipes
@@ -622,7 +608,6 @@ xiaoqi.de
 xn--b6gac.eu.org
 xslist.org
 xx.knit.bid
-y508.com
 yapuyapu.com
 yd.hhhhh.eu.org
 yd.zhuqq.qzz.io
@@ -656,6 +641,5 @@ zeas.top
 zen-browser.app
 zero-trust-client.cloudflareclient.com
 zh-wireguard.com
-zh.crazygames.plus
 zmxf.qzz.io
 zoominfo.com
