@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-07 17:15
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-08 16:57
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -108,7 +108,6 @@ cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cf-guining.880849.xyz:443#cf-guining.880849.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cf-ip-site.vov.moe:443#cf-ip-site.vov.moe
-cf.0662.sld.tw:443#cf.0662.sld.tw
 cf.090227.xyz:443#cf.090227.xyz
 cf.0sm.com:443#cf.0sm.com
 cf.130519.xyz:443#cf.130519.xyz
@@ -245,11 +244,7 @@ dianomi.com:443#dianomi.com
 dianxin.19931101.xyz:443#dianxin.19931101.xyz
 digitalocean.com:443#digitalocean.com
 dnew.cc:443#dnew.cc
-dns.0.6.7.a.f.f.0.7.0.0.6.2.ip6.arpa:443#dns.0.6.7.a.f.f.0.7.0.0.6.2.ip6.arpa
-dns.0662.ddnsfree.com:443#dns.0662.ddnsfree.com
-dns.0662.de5.net:443#dns.0662.de5.net
 dns.163189.xyz:443#dns.163189.xyz
-dns.leung.freeddns.org:443#dns.leung.freeddns.org
 dogechain.info:443#dogechain.info
 dongbanghong.com:443#dongbanghong.com
 doro.lol:443#doro.lol

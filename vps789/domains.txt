@@ -107,7 +107,6 @@ cf-cname.xingpingcn.top
 cf-guining.880849.xyz
 cf-ip-node.vov.moe
 cf-ip-site.vov.moe
-cf.0662.sld.tw
 cf.090227.xyz
 cf.0sm.com
 cf.130519.xyz
@@ -244,11 +243,7 @@ dianomi.com
 dianxin.19931101.xyz
 digitalocean.com
 dnew.cc
-dns.0.6.7.a.f.f.0.7.0.0.6.2.ip6.arpa
-dns.0662.ddnsfree.com
-dns.0662.de5.net
 dns.163189.xyz
-dns.leung.freeddns.org
 dogechain.info
 dongbanghong.com
 doro.lol
