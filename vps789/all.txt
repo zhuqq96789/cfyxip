@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-08 16:57
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-09 16:59
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -77,7 +77,6 @@ buyshoes.shop:443#buyshoes.shop
 c-power.com.cn:443#c-power.com.cn
 c.lma.de5.net:443#c.lma.de5.net
 carpt.net:443#carpt.net
-cdn-1.dogeggo.us.ci:443#cdn-1.dogeggo.us.ci
 cdn.091224.xyz:443#cdn.091224.xyz
 cdn.1689655810.dpdns.org:443#cdn.1689655810.dpdns.org
 cdn.2020111.xyz:443#cdn.2020111.xyz
@@ -540,7 +539,6 @@ www.hugedomains.com:443#www.hugedomains.com
 www.hypixel.net:443#www.hypixel.net
 www.itedev.com:443#www.itedev.com
 www.jimdo.com:443#www.jimdo.com
-www.jinjinchong.com:443#www.jinjinchong.com
 www.jp.pima.gov:443#www.jp.pima.gov
 www.jsdelivr.com:443#www.jsdelivr.com
 www.lbl.gov:443#www.lbl.gov

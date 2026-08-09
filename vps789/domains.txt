@@ -76,7 +76,6 @@ buyshoes.shop
 c-power.com.cn
 c.lma.de5.net
 carpt.net
-cdn-1.dogeggo.us.ci
 cdn.091224.xyz
 cdn.1689655810.dpdns.org
 cdn.2020111.xyz
@@ -539,7 +538,6 @@ www.hugedomains.com
 www.hypixel.net
 www.itedev.com
 www.jimdo.com
-www.jinjinchong.com
 www.jp.pima.gov
 www.jsdelivr.com
 www.lbl.gov
