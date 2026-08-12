@@ -115,7 +115,6 @@ cf.254301.xyz
 cf.3666888.xyz
 cf.468123.xyz
 cf.553314.xyz
-cf.727672.xyz
 cf.78607323.xyz
 cf.877771.xyz
 cf.877774.xyz
@@ -123,7 +122,6 @@ cf.880849.xyz
 cf.92555.xyz
 cf.996616.xyz
 cf.998866.top
-cf.affection.dpdns.org
 cf.blogluo.eu.org
 cf.cdn.smallbottle2.top
 cf.cf.3666888.xyz
@@ -410,7 +408,6 @@ pure.coupert.com
 pwjbl.me
 qocu.cf.3666888.xyz
 qoj.ac
-qy.cf.727672.xyz
 racerseseries.sky.com
 rarbg.proxyninja.org
 rargb.to

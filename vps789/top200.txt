@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：08-11 17:12
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：08-12 17:23
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -116,7 +116,6 @@ cf.254301.xyz:443#cf.254301.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
 cf.468123.xyz:443#cf.468123.xyz
 cf.553314.xyz:443#cf.553314.xyz
-cf.727672.xyz:443#cf.727672.xyz
 cf.78607323.xyz:443#cf.78607323.xyz
 cf.877771.xyz:443#cf.877771.xyz
 cf.877774.xyz:443#cf.877774.xyz
@@ -124,7 +123,6 @@ cf.880849.xyz:443#cf.880849.xyz
 cf.92555.xyz:443#cf.92555.xyz
 cf.996616.xyz:443#cf.996616.xyz
 cf.998866.top:443#cf.998866.top
-cf.affection.dpdns.org:443#cf.affection.dpdns.org
 cf.blogluo.eu.org:443#cf.blogluo.eu.org
 cf.cdn.smallbottle2.top:443#cf.cdn.smallbottle2.top
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
@@ -199,4 +197,6 @@ cm.880849.xyz:443#cm.880849.xyz
 cm.edu.kg:443#cm.edu.kg
 cmcc.090227.xyz:443#cmcc.090227.xyz
 cmcc.877774.xyz:443#cmcc.877774.xyz
+cmcc.cc.cd:443#cmcc.cc.cd
+cmcc.hw.090227.xyz:443#cmcc.hw.090227.xyz
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
