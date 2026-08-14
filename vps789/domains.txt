@@ -186,6 +186,7 @@ cloudflare.468123.xyz
 cloudflare.byoip.top
 cloudflare.cfgo.cc
 cloudflare.cnae.top
+cloudflare.com
 cloudflare.idc.rocks
 cloudflare.moeyy.xyz
 cloudflare.net
@@ -304,7 +305,9 @@ hubspot.com
 hy.aaw.qzz.io
 hzytjy.cn
 i.111666.best
+i.jpg.dog
 i.pages.dev
+i.pixiv.nl
 i.pixiv.re
 icook.hk
 icook.tw
@@ -591,6 +594,7 @@ www.wuduanyun.com
 www.xflash.vip
 www.xiaoshuofen.com
 www.yutank.com
+www.zendesk.com
 www2.rarbggo.to
 wxp.l2.ink
 xiaoqi.de

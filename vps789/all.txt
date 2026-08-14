@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-12 17:23
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-14 17:18
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -187,6 +187,7 @@ cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cloudflare.byoip.top:443#cloudflare.byoip.top
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cloudflare.cnae.top:443#cloudflare.cnae.top
+cloudflare.com:443#cloudflare.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cloudflare.moeyy.xyz:443#cloudflare.moeyy.xyz
 cloudflare.net:443#cloudflare.net
@@ -305,7 +306,9 @@ hubspot.com:443#hubspot.com
 hy.aaw.qzz.io:443#hy.aaw.qzz.io
 hzytjy.cn:443#hzytjy.cn
 i.111666.best:443#i.111666.best
+i.jpg.dog:443#i.jpg.dog
 i.pages.dev:443#i.pages.dev
+i.pixiv.nl:443#i.pixiv.nl
 i.pixiv.re:443#i.pixiv.re
 icook.hk:443#icook.hk
 icook.tw:443#icook.tw
@@ -592,6 +595,7 @@ www.wuduanyun.com:443#www.wuduanyun.com
 www.xflash.vip:443#www.xflash.vip
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.yutank.com:443#www.yutank.com
+www.zendesk.com:443#www.zendesk.com
 www2.rarbggo.to:443#www2.rarbggo.to
 wxp.l2.ink:443#wxp.l2.ink
 xiaoqi.de:443#xiaoqi.de
