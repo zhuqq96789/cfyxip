@@ -100,6 +100,7 @@ cdn.violet.vin
 cdn.wzkf88.com
 cdnjs.cloudflare.com
 cdnjs.com
+cdnjs.loli.net
 cdns.doon.eu.org
 centerofthewest.org
 cf-cname.xingpingcn.top
@@ -264,6 +265,7 @@ emos.best
 emos.prlo.de
 encryptedsni.com
 envato.com
+esm.run
 eteaf.cf.3666888.xyz
 ex.warspite.dpdns.org
 f.lma.de5.net
@@ -355,6 +357,7 @@ linear.app
 linkvertise.com
 login.rockwellautomation.com
 lose.edu.eu.org
+lt.1930812.xyz
 lt.zhuqq.qzz.io
 m.cloudflare.182682.xyz
 m.iyf.tv
@@ -367,12 +370,14 @@ missav.ws
 mming.ggff.net
 moegirl.icu
 mogas.com
+mokeedev.com
 moodle.org
 moondroplab.com
 mox.moxing.lol
 mrmacintosh.com
 mskcc.org
 mvnrepository.com
+my.vultr.com
 nas.chinwa.eu.cc
 ncc.gov.ng
 ncdc.gov.ng
@@ -417,6 +422,7 @@ rargb.to
 reader.sudorm.su
 redis.io
 registry.npmjs.org
+registry.yarnpkg.com
 resources.biginterview.com
 rocketreach.co
 run.254301.xyz
@@ -497,6 +503,7 @@ wallpaperflare.com
 webn.cc
 worldvectorlogo.com
 wppaunz.com
+wsrv.nl
 www.4429.com.cn
 www.5199dy.com
 www.5h.com
@@ -543,6 +550,7 @@ www.jsdelivr.com
 www.lbl.gov
 www.leics.police.uk
 www.libvio.site
+www.loc.gov
 www.mastervolt.com
 www.maxcom.de
 www.mc.js.cool

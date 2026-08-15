@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-14 17:18
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-15 16:43
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -101,6 +101,7 @@ cdn.violet.vin:443#cdn.violet.vin
 cdn.wzkf88.com:443#cdn.wzkf88.com
 cdnjs.cloudflare.com:443#cdnjs.cloudflare.com
 cdnjs.com:443#cdnjs.com
+cdnjs.loli.net:443#cdnjs.loli.net
 cdns.doon.eu.org:443#cdns.doon.eu.org
 centerofthewest.org:443#centerofthewest.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
@@ -265,6 +266,7 @@ emos.best:443#emos.best
 emos.prlo.de:443#emos.prlo.de
 encryptedsni.com:443#encryptedsni.com
 envato.com:443#envato.com
+esm.run:443#esm.run
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 ex.warspite.dpdns.org:443#ex.warspite.dpdns.org
 f.lma.de5.net:443#f.lma.de5.net
@@ -356,6 +358,7 @@ linear.app:443#linear.app
 linkvertise.com:443#linkvertise.com
 login.rockwellautomation.com:443#login.rockwellautomation.com
 lose.edu.eu.org:443#lose.edu.eu.org
+lt.1930812.xyz:443#lt.1930812.xyz
 lt.zhuqq.qzz.io:443#lt.zhuqq.qzz.io
 m.cloudflare.182682.xyz:443#m.cloudflare.182682.xyz
 m.iyf.tv:443#m.iyf.tv
@@ -368,12 +371,14 @@ missav.ws:443#missav.ws
 mming.ggff.net:443#mming.ggff.net
 moegirl.icu:443#moegirl.icu
 mogas.com:443#mogas.com
+mokeedev.com:443#mokeedev.com
 moodle.org:443#moodle.org
 moondroplab.com:443#moondroplab.com
 mox.moxing.lol:443#mox.moxing.lol
 mrmacintosh.com:443#mrmacintosh.com
 mskcc.org:443#mskcc.org
 mvnrepository.com:443#mvnrepository.com
+my.vultr.com:443#my.vultr.com
 nas.chinwa.eu.cc:443#nas.chinwa.eu.cc
 ncc.gov.ng:443#ncc.gov.ng
 ncdc.gov.ng:443#ncdc.gov.ng
@@ -418,6 +423,7 @@ rargb.to:443#rargb.to
 reader.sudorm.su:443#reader.sudorm.su
 redis.io:443#redis.io
 registry.npmjs.org:443#registry.npmjs.org
+registry.yarnpkg.com:443#registry.yarnpkg.com
 resources.biginterview.com:443#resources.biginterview.com
 rocketreach.co:443#rocketreach.co
 run.254301.xyz:443#run.254301.xyz
@@ -498,6 +504,7 @@ wallpaperflare.com:443#wallpaperflare.com
 webn.cc:443#webn.cc
 worldvectorlogo.com:443#worldvectorlogo.com
 wppaunz.com:443#wppaunz.com
+wsrv.nl:443#wsrv.nl
 www.4429.com.cn:443#www.4429.com.cn
 www.5199dy.com:443#www.5199dy.com
 www.5h.com:443#www.5h.com
@@ -544,6 +551,7 @@ www.jsdelivr.com:443#www.jsdelivr.com
 www.lbl.gov:443#www.lbl.gov
 www.leics.police.uk:443#www.leics.police.uk
 www.libvio.site:443#www.libvio.site
+www.loc.gov:443#www.loc.gov
 www.mastervolt.com:443#www.mastervolt.com
 www.maxcom.de:443#www.maxcom.de
 www.mc.js.cool:443#www.mc.js.cool

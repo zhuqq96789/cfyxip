@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：08-14 17:18
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：08-15 16:43
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -101,6 +101,7 @@ cdn.violet.vin:443#cdn.violet.vin
 cdn.wzkf88.com:443#cdn.wzkf88.com
 cdnjs.cloudflare.com:443#cdnjs.cloudflare.com
 cdnjs.com:443#cdnjs.com
+cdnjs.loli.net:443#cdnjs.loli.net
 cdns.doon.eu.org:443#cdns.doon.eu.org
 centerofthewest.org:443#centerofthewest.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
@@ -198,5 +199,4 @@ cm.880849.xyz:443#cm.880849.xyz
 cm.edu.kg:443#cm.edu.kg
 cmcc.090227.xyz:443#cmcc.090227.xyz
 cmcc.877774.xyz:443#cmcc.877774.xyz
-cmcc.cc.cd:443#cmcc.cc.cd
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
