@@ -195,6 +195,7 @@ cloudflare.rainyfall.com
 cloudflare.tv
 cm.78607323.xyz
 cm.880849.xyz
+cm.cf.090902.xyz
 cm.edu.kg
 cmcc.090227.xyz
 cmcc.877774.xyz
@@ -342,6 +343,7 @@ jojolsj.jojojing.top
 journeys.com
 jp.cf.3666888.xyz
 jquery.com
+kali.download
 kaspa.stream
 keji.cf.3666888.xyz
 kernelsu.com

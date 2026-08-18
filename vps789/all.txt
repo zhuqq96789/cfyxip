@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-17 16:59
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-18 16:51
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
@@ -196,6 +196,7 @@ cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 cloudflare.tv:443#cloudflare.tv
 cm.78607323.xyz:443#cm.78607323.xyz
 cm.880849.xyz:443#cm.880849.xyz
+cm.cf.090902.xyz:443#cm.cf.090902.xyz
 cm.edu.kg:443#cm.edu.kg
 cmcc.090227.xyz:443#cmcc.090227.xyz
 cmcc.877774.xyz:443#cmcc.877774.xyz
@@ -343,6 +344,7 @@ jojolsj.jojojing.top:443#jojolsj.jojojing.top
 journeys.com:443#journeys.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 jquery.com:443#jquery.com
+kali.download:443#kali.download
 kaspa.stream:443#kaspa.stream
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 kernelsu.com:443#kernelsu.com
