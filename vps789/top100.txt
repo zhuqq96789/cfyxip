@@ -1,5 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top100 | 数据更新时间：08-20 16:53
-0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
+ai7777777.zhuqq.qzz.io:443#▼ top100 | 数据更新时间：08-21 16:54
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -13,7 +12,6 @@ ai7777777.zhuqq.qzz.io:443#▼ top100 | 数据更新时间：08-20 16:53
 131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 16k.club:443#16k.club
 1749991941.bilibiliapp.cn:443#1749991941.bilibiliapp.cn
-1757760858.tencentapp.cn:443#1757760858.tencentapp.cn
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 2.cfip.xiaolicdn.cn:443#2.cfip.xiaolicdn.cn
 224322.xyz:443#224322.xyz
@@ -30,7 +28,6 @@ ai7777777.zhuqq.qzz.io:443#▼ top100 | 数据更新时间：08-20 16:53
 628gr.cc:443#628gr.cc
 666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
-777.ai7777777.xyz:443#777.ai7777777.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 859ct.cc:443#859ct.cc
 9.c.2.0.9.1.0.0.0.7.4.0.1.0.0.2.ip6.arpa:443#9.c.2.0.9.1.0.0.0.7.4.0.1.0.0.2.ip6.arpa
@@ -38,7 +35,6 @@ ai7777777.zhuqq.qzz.io:443#▼ top100 | 数据更新时间：08-20 16:53
 99.co:443#99.co
 9mod.com:443#9mod.com
 ChinaTelecom.youxuan.zmxf.cc.cd:443#ChinaTelecom.youxuan.zmxf.cc.cd
-a.cf.cnae.top:443#a.cf.cnae.top
 a.cloudflare.182682.xyz:443#a.cloudflare.182682.xyz
 a.lma.de5.net:443#a.lma.de5.net
 aaa.cloudflare.182682.xyz:443#aaa.cloudflare.182682.xyz
@@ -49,7 +45,6 @@ academy.7shifts.com:443#academy.7shifts.com
 academy.mastercard.com:443#academy.mastercard.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 aftership.com:443#aftership.com
-ahblog.cn:443#ahblog.cn
 ahrefs.com:443#ahrefs.com
 ali.nonull.pp.ua:443#ali.nonull.pp.ua
 alternativeto.net:443#alternativeto.net
@@ -61,7 +56,6 @@ aqua-aria.company:443#aqua-aria.company
 auto.dolby.dpdns.org:443#auto.dolby.dpdns.org
 autz.org:443#autz.org
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-b.lma.de5.net:443#b.lma.de5.net
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 baota.us.kg:443#baota.us.kg
 bbs.alipansou.com:443#bbs.alipansou.com
@@ -78,13 +72,10 @@ c-power.com.cn:443#c-power.com.cn
 c.lma.de5.net:443#c.lma.de5.net
 carpt.net:443#carpt.net
 cdn.091224.xyz:443#cdn.091224.xyz
-cdn.1689655810.dpdns.org:443#cdn.1689655810.dpdns.org
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cdn.204910.best:443#cdn.204910.best
 cdn.2158.cc:443#cdn.2158.cc
-cdn.262832.xyz:443#cdn.262832.xyz
 cdn.2x.nz:443#cdn.2x.nz
-cdn.31514926.xyz:443#cdn.31514926.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
 cdn.667891.xyz:443#cdn.667891.xyz
 cdn.7zz.cn:443#cdn.7zz.cn
@@ -99,4 +90,13 @@ cdn.tzpro.xyz:443#cdn.tzpro.xyz
 cdn.violet.vin:443#cdn.violet.vin
 cdn.wzkf88.com:443#cdn.wzkf88.com
 cdnjs.cloudflare.com:443#cdnjs.cloudflare.com
+cdnjs.com:443#cdnjs.com
+cdnjs.loli.net:443#cdnjs.loli.net
+cdns.doon.eu.org:443#cdns.doon.eu.org
+centerofthewest.org:443#centerofthewest.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
+cf-ip-site.vov.moe:443#cf-ip-site.vov.moe
+cf.090227.xyz:443#cf.090227.xyz
+cf.0sm.com:443#cf.0sm.com
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测

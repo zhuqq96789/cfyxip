@@ -1,5 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：08-20 16:53
-0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org:443#0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org
+ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：08-21 16:54
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -13,7 +12,6 @@ ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：08-20 16:53
 131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 16k.club:443#16k.club
 1749991941.bilibiliapp.cn:443#1749991941.bilibiliapp.cn
-1757760858.tencentapp.cn:443#1757760858.tencentapp.cn
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 2.cfip.xiaolicdn.cn:443#2.cfip.xiaolicdn.cn
 224322.xyz:443#224322.xyz
@@ -30,7 +28,6 @@ ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：08-20 16:53
 628gr.cc:443#628gr.cc
 666.cf.cname.vvhan.com:443#666.cf.cname.vvhan.com
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
-777.ai7777777.xyz:443#777.ai7777777.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 859ct.cc:443#859ct.cc
 9.c.2.0.9.1.0.0.0.7.4.0.1.0.0.2.ip6.arpa:443#9.c.2.0.9.1.0.0.0.7.4.0.1.0.0.2.ip6.arpa
@@ -38,7 +35,6 @@ ai7777777.zhuqq.qzz.io:443#▼ top50 | 数据更新时间：08-20 16:53
 99.co:443#99.co
 9mod.com:443#9mod.com
 ChinaTelecom.youxuan.zmxf.cc.cd:443#ChinaTelecom.youxuan.zmxf.cc.cd
-a.cf.cnae.top:443#a.cf.cnae.top
 a.cloudflare.182682.xyz:443#a.cloudflare.182682.xyz
 a.lma.de5.net:443#a.lma.de5.net
 aaa.cloudflare.182682.xyz:443#aaa.cloudflare.182682.xyz
@@ -49,4 +45,8 @@ academy.7shifts.com:443#academy.7shifts.com
 academy.mastercard.com:443#academy.mastercard.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 aftership.com:443#aftership.com
+ahrefs.com:443#ahrefs.com
+ali.nonull.pp.ua:443#ali.nonull.pp.ua
+alternativeto.net:443#alternativeto.net
+api.cloudflare.com:443#api.cloudflare.com
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
