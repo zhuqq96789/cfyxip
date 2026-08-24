@@ -62,7 +62,6 @@ bestcf.030101.xyz
 bestcf.top
 bestcfv4.030101.xyz
 bitsight.com
-blog.646474.xyz
 blog.raindew.576555.xyz
 brandstudio.com
 builtbybuffalo.com
@@ -241,7 +240,6 @@ freeyx.cloudflare88.eu.org
 ftm.omnihuman.games
 funko.com
 fw8je9.cf.3666888.xyz
-g.lma.de5.net
 garuda-indonesia.com
 gateway.ipfsscan.io
 get.pixelexperience.org
@@ -300,6 +298,7 @@ jojolsj.jojojing.top
 journeys.com
 jp.cf.3666888.xyz
 jquery.com
+js.org
 kali.download
 kaspa.stream
 keji.cf.3666888.xyz
@@ -348,8 +347,6 @@ noc.one
 nodejs.org
 nodeloc.cc
 npmjs.com
-nrt.xxxxxxxx.nyc.mn
-nrtcfdns.zone.id
 oo.xzhi.eu.org
 ooo.0o0.ooo
 op.chinwa.eu.cc

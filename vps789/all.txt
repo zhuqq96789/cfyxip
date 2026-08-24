@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-23 16:45
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-24 17:01
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -63,7 +63,6 @@ bestcf.030101.xyz:443#bestcf.030101.xyz
 bestcf.top:443#bestcf.top
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
 bitsight.com:443#bitsight.com
-blog.646474.xyz:443#blog.646474.xyz
 blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
 brandstudio.com:443#brandstudio.com
 builtbybuffalo.com:443#builtbybuffalo.com
@@ -242,7 +241,6 @@ freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 ftm.omnihuman.games:443#ftm.omnihuman.games
 funko.com:443#funko.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
-g.lma.de5.net:443#g.lma.de5.net
 garuda-indonesia.com:443#garuda-indonesia.com
 gateway.ipfsscan.io:443#gateway.ipfsscan.io
 get.pixelexperience.org:443#get.pixelexperience.org
@@ -301,6 +299,7 @@ jojolsj.jojojing.top:443#jojolsj.jojojing.top
 journeys.com:443#journeys.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 jquery.com:443#jquery.com
+js.org:443#js.org
 kali.download:443#kali.download
 kaspa.stream:443#kaspa.stream
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
@@ -349,8 +348,6 @@ noc.one:443#noc.one
 nodejs.org:443#nodejs.org
 nodeloc.cc:443#nodeloc.cc
 npmjs.com:443#npmjs.com
-nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
-nrtcfdns.zone.id:443#nrtcfdns.zone.id
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 ooo.0o0.ooo:443#ooo.0o0.ooo
 op.chinwa.eu.cc:443#op.chinwa.eu.cc
