@@ -396,6 +396,7 @@ sg.cf.3666888.xyz
 shabak.gov.il
 shanghai.mfa.gov.ua
 sharray.net
+shen6011.pages.dev
 singapore.com
 skk.moe
 snipaste1.speedip.eu.org
@@ -582,5 +583,6 @@ zabc.net
 zen-browser.app
 zero-trust-client.cloudflareclient.com
 zh-wireguard.com
+zj.7star.eu.cc
 zmxf.qzz.io
 zoominfo.com

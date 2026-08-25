@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-24 17:01
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-25 16:56
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -397,6 +397,7 @@ sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 shabak.gov.il:443#shabak.gov.il
 shanghai.mfa.gov.ua:443#shanghai.mfa.gov.ua
 sharray.net:443#sharray.net
+shen6011.pages.dev:443#shen6011.pages.dev
 singapore.com:443#singapore.com
 skk.moe:443#skk.moe
 snipaste1.speedip.eu.org:443#snipaste1.speedip.eu.org
@@ -583,6 +584,7 @@ zabc.net:443#zabc.net
 zen-browser.app:443#zen-browser.app
 zero-trust-client.cloudflareclient.com:443#zero-trust-client.cloudflareclient.com
 zh-wireguard.com:443#zh-wireguard.com
+zj.7star.eu.cc:443#zj.7star.eu.cc
 zmxf.qzz.io:443#zmxf.qzz.io
 zoominfo.com:443#zoominfo.com
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
