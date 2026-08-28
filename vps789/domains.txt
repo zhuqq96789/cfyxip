@@ -87,7 +87,6 @@ cdn.nodeimage.com
 cdn.sketch.com
 cdn.tzpro.xyz
 cdn.violet.vin
-cdn.wzkf88.com
 cdnjs.cloudflare.com
 cdnjs.com
 cdnjs.loli.net
