@@ -211,6 +211,7 @@ development.ihg.com
 dexari.com
 dianomi.com
 digitalocean.com
+dl.macked.app
 dnew.cc
 dns.163189.xyz
 dogechain.info
@@ -323,6 +324,7 @@ m.cloudflare.182682.xyz
 m.iyf.tv
 macked.app
 mail.murata.com
+mail.notion.com
 mail.zrf.me
 markmonitor.com
 mfa.gov.ua

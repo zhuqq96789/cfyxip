@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-29 21:49
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-30 21:47
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -212,6 +212,7 @@ development.ihg.com:443#development.ihg.com
 dexari.com:443#dexari.com
 dianomi.com:443#dianomi.com
 digitalocean.com:443#digitalocean.com
+dl.macked.app:443#dl.macked.app
 dnew.cc:443#dnew.cc
 dns.163189.xyz:443#dns.163189.xyz
 dogechain.info:443#dogechain.info
@@ -324,6 +325,7 @@ m.cloudflare.182682.xyz:443#m.cloudflare.182682.xyz
 m.iyf.tv:443#m.iyf.tv
 macked.app:443#macked.app
 mail.murata.com:443#mail.murata.com
+mail.notion.com:443#mail.notion.com
 mail.zrf.me:443#mail.zrf.me
 markmonitor.com:443#markmonitor.com
 mfa.gov.ua:443#mfa.gov.ua
