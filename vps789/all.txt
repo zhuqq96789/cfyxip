@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：08-30 21:47
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-05 19:49
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -132,6 +132,7 @@ cf.vvhan.com:443#cf.vvhan.com
 cf.xreak.top:443#cf.xreak.top
 cf.xycf.asia:443#cf.xycf.asia
 cf.yfjc.sbs:443#cf.yfjc.sbs
+cf.yj250.bond:443#cf.yj250.bond
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cf2.996616.xyz:443#cf2.996616.xyz
@@ -494,7 +495,6 @@ www.giannidelprete.it:443#www.giannidelprete.it
 www.gocoin.pro:443#www.gocoin.pro
 www.gov.il:443#www.gov.il
 www.government.is:443#www.government.is
-www.habia.com:443#www.habia.com
 www.hdmoli.com:443#www.hdmoli.com
 www.hugedomains.com:443#www.hugedomains.com
 www.hypixel.net:443#www.hypixel.net
