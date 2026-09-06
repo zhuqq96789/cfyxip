@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-05 19:49
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-06 20:07
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -318,6 +318,7 @@ kwiat.com:443#kwiat.com
 leawo.org:443#leawo.org
 linear.app:443#linear.app
 linkvertise.com:443#linkvertise.com
+liziye.pages.dev:443#liziye.pages.dev
 login.rockwellautomation.com:443#login.rockwellautomation.com
 lose.edu.eu.org:443#lose.edu.eu.org
 lt.1930812.xyz:443#lt.1930812.xyz
