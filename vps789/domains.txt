@@ -93,10 +93,12 @@ cdn.cnno.de
 cdn.ctn32.us.kg
 cdn.ddeed.de
 cdn.fiatnorm.us.kg
+cdn.jwcmdr.top
 cdn.nodeimage.com
 cdn.sketch.com
 cdn.tzpro.xyz
 cdn.violet.vin
+cdn1.jwcmdr.top
 cdnjs.cloudflare.com
 cdnjs.com
 cdnjs.loli.net
