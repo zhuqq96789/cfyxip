@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-12 20:08
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-13 21:17
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -71,7 +71,6 @@ bbs.alipansou.com:443#bbs.alipansou.com
 bestcf.030101.xyz:443#bestcf.030101.xyz
 bestcf.top:443#bestcf.top
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
-bitsight.com:443#bitsight.com
 bizclikmedia.com:443#bizclikmedia.com
 blog.cloudflare.com:443#blog.cloudflare.com
 blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
@@ -504,6 +503,7 @@ www.canadatype.com:443#www.canadatype.com
 www.cancilleria.gov.co:443#www.cancilleria.gov.co
 www.carousell.sg:443#www.carousell.sg
 www.chess.com:443#www.chess.com
+www.copilot.com:443#www.copilot.com
 www.crazygames.fr:443#www.crazygames.fr
 www.dbs.com.sg:443#www.dbs.com.sg
 www.deepl.com:443#www.deepl.com
