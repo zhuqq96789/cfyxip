@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top100 | 数据更新时间：09-13 21:17
+ai7777777.zhuqq.qzz.io:443#▼ top100 | 数据更新时间：09-14 22:59
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -71,6 +71,7 @@ bbs.alipansou.com:443#bbs.alipansou.com
 bestcf.030101.xyz:443#bestcf.030101.xyz
 bestcf.top:443#bestcf.top
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
+bitsight.com:443#bitsight.com
 bizclikmedia.com:443#bizclikmedia.com
 blog.cloudflare.com:443#blog.cloudflare.com
 blog.raindew.576555.xyz:443#blog.raindew.576555.xyz
@@ -98,5 +99,4 @@ cdn.nodeimage.com:443#cdn.nodeimage.com
 cdn.sketch.com:443#cdn.sketch.com
 cdn.tzpro.xyz:443#cdn.tzpro.xyz
 cdn.violet.vin:443#cdn.violet.vin
-cdn1.jwcmdr.top:443#cdn1.jwcmdr.top
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
