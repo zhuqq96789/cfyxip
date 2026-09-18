@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-14 22:59
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-18 20:57
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -313,7 +313,6 @@ ip.skk.moe:443#ip.skk.moe
 ippure.com:443#ippure.com
 iskills.com:443#iskills.com
 isp.254301.xyz:443#isp.254301.xyz
-isp.qzz.io:443#isp.qzz.io
 japan.com:443#japan.com
 jellyfin.roddy.eu.cc:443#jellyfin.roddy.eu.cc
 jobsdb.com:443#jobsdb.com
