@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-20 21:01
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-21 23:04
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -260,7 +260,6 @@ fn.130519.xyz:443#fn.130519.xyz
 fonts.cdnfonts.com:443#fonts.cdnfonts.com
 form.assaabloy.com:443#form.assaabloy.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-ftm.omnihuman.games:443#ftm.omnihuman.games
 funko.com:443#funko.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 garuda-indonesia.com:443#garuda-indonesia.com
@@ -518,7 +517,6 @@ www.epicgames.com:443#www.epicgames.com
 www.fastsoso.cn:443#www.fastsoso.cn
 www.galgamex.net:443#www.galgamex.net
 www.giannidelprete.it:443#www.giannidelprete.it
-www.gocoin.pro:443#www.gocoin.pro
 www.gov.il:443#www.gov.il
 www.government.is:443#www.government.is
 www.hdmoli.com:443#www.hdmoli.com

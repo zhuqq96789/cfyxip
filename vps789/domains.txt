@@ -259,7 +259,6 @@ fn.130519.xyz
 fonts.cdnfonts.com
 form.assaabloy.com
 freeyx.cloudflare88.eu.org
-ftm.omnihuman.games
 funko.com
 fw8je9.cf.3666888.xyz
 garuda-indonesia.com
@@ -517,7 +516,6 @@ www.epicgames.com
 www.fastsoso.cn
 www.galgamex.net
 www.giannidelprete.it
-www.gocoin.pro
 www.gov.il
 www.government.is
 www.hdmoli.com
