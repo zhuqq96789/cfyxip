@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：09-21 23:04
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：09-24 21:31
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -96,6 +96,7 @@ cdn.ddeed.de:443#cdn.ddeed.de
 cdn.fiatnorm.us.kg:443#cdn.fiatnorm.us.kg
 cdn.jwcmdr.top:443#cdn.jwcmdr.top
 cdn.nodeimage.com:443#cdn.nodeimage.com
+cdn.sjzhk.top:443#cdn.sjzhk.top
 cdn.sketch.com:443#cdn.sketch.com
 cdn.tzpro.xyz:443#cdn.tzpro.xyz
 cdn.violet.vin:443#cdn.violet.vin
@@ -198,5 +199,4 @@ codexradar.com:443#codexradar.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 constitution.congress.gov:443#constitution.congress.gov
 coreweave.com:443#coreweave.com
-cozylife.app:443#cozylife.app
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测

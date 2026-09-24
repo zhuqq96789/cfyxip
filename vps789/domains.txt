@@ -95,6 +95,7 @@ cdn.ddeed.de
 cdn.fiatnorm.us.kg
 cdn.jwcmdr.top
 cdn.nodeimage.com
+cdn.sjzhk.top
 cdn.sketch.com
 cdn.tzpro.xyz
 cdn.violet.vin
