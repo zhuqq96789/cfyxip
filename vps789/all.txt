@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-24 21:31
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-25 21:42
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -410,6 +410,7 @@ saas.sin.fan:443#saas.sin.fan
 salaryexpert.com:443#salaryexpert.com
 sanctuarywealth.com:443#sanctuarywealth.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+sb3cdn.sjzhk.top:443#sb3cdn.sjzhk.top
 sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa:443#sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa
 scalacube.com:443#scalacube.com
 sci-hub.al:443#sci-hub.al
@@ -471,6 +472,7 @@ valuemedia.cn:443#valuemedia.cn
 vayyar.com:443#vayyar.com
 vegasgeek.com:443#vegasgeek.com
 versantstore.pearson.com:443#versantstore.pearson.com
+video.ouo.chat:443#video.ouo.chat
 videodelivery.net:443#videodelivery.net
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
@@ -587,6 +589,7 @@ www.xflash.vip:443#www.xflash.vip
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.zendesk.com:443#www.zendesk.com
 www2.rarbggo.to:443#www2.rarbggo.to
+xbjzcdn.sjzhk.top:443#xbjzcdn.sjzhk.top
 xiaoqi.de:443#xiaoqi.de
 xn--b6gac.eu.org:443#xn--b6gac.eu.org
 xslist.org:443#xslist.org
