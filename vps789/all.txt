@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-29 00:44
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：09-29 22:50
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -234,6 +234,7 @@ dnew.cc:443#dnew.cc
 dns.163189.xyz:443#dns.163189.xyz
 dogechain.info:443#dogechain.info
 dongbanghong.com:443#dongbanghong.com
+down.anycast.mom:443#down.anycast.mom
 duckybot.xyz:443#duckybot.xyz
 duggal.com:443#duggal.com
 dx.doi.org:443#dx.doi.org
@@ -347,6 +348,7 @@ mail.murata.com:443#mail.murata.com
 mail.notion.com:443#mail.notion.com
 mail.zrf.me:443#mail.zrf.me
 markmonitor.com:443#markmonitor.com
+merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
 mfa.gov.ua:443#mfa.gov.ua
 missav.ws:443#missav.ws
 moegirl.icu:443#moegirl.icu
