@@ -201,7 +201,6 @@ constitution.congress.gov
 coreweave.com
 cozylife.app
 crinacle.com
-crowdstrike.com
 crypto.cloudflare.com
 css.cloudflare.182682.xyz
 ct.090227.xyz
@@ -433,7 +432,6 @@ skk.moe
 smapi.xystem138.com
 snipaste1.speedip.eu.org
 so.360832.xyz
-sourceforge.net
 spirol.com
 spring.io
 static.elfsight.com
