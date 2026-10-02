@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：10-01 23:30
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：10-02 22:45
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -123,6 +123,7 @@ cf.877774.xyz:443#cf.877774.xyz
 cf.92555.xyz:443#cf.92555.xyz
 cf.996616.xyz:443#cf.996616.xyz
 cf.998866.top:443#cf.998866.top
+cf.blog.646474.xyz:443#cf.blog.646474.xyz
 cf.blogluo.eu.org:443#cf.blogluo.eu.org
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cf.cf.636949.xyz:443#cf.cf.636949.xyz
@@ -198,5 +199,4 @@ cnllm.com:443#cnllm.com
 codeforces.com:443#codeforces.com
 codexradar.com:443#codexradar.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-constitution.congress.gov:443#constitution.congress.gov
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
