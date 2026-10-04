@@ -14,7 +14,6 @@
 2.cf.3666888.xyz
 2.cfip.xiaolicdn.cn
 224322.xyz
-278vd.cc
 2x.nz
 3.cf.3666888.xyz
 3.cfip.xiaolicdn.cn
@@ -85,8 +84,10 @@ cdn.2020111.xyz
 cdn.204910.best
 cdn.2158.cc
 cdn.2x.nz
+cdn.555586.xyz
 cdn.667891.xyz
 cdn.7zz.cn
+cdn.aneko.ink
 cdn.cf.3666888.xyz
 cdn.cnno.de
 cdn.ctn32.us.kg
@@ -142,6 +143,7 @@ cf.te.lezi.chat
 cf.tencentapp.cn
 cf.v8.longsays.com
 cf.vvhan.com
+cf.witcorn.eu.org
 cf.xreak.top
 cf.xycf.asia
 cf.yfjc.sbs
@@ -505,6 +507,7 @@ www.broadcom.com
 www.canadatype.com
 www.cancilleria.gov.co
 www.carousell.sg
+www.cf.cname.blowswind.top
 www.chess.com
 www.copilot.com
 www.crazygames.fr
