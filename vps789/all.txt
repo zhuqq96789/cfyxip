@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-06 01:06
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-06 23:06
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -462,7 +462,6 @@ tinyurl.com:443#tinyurl.com
 token.im:443#token.im
 top-fast.cf.3666888.xyz:443#top-fast.cf.3666888.xyz
 totoro.im:443#totoro.im
-tracker.metricool.com:443#tracker.metricool.com
 trump.com:443#trump.com
 tt.78607323.xyz:443#tt.78607323.xyz
 tuite-c0f.pages.dev:443#tuite-c0f.pages.dev
