@@ -78,6 +78,7 @@ builtbybuffalo.com
 buyshoes.shop
 c-power.com.cn
 c.lma.de5.net
+cal.com
 carpt.net
 cdn.091224.xyz
 cdn.2020111.xyz
@@ -197,8 +198,10 @@ cn.vuejs.org
 cnamefuckxxs.yuchen.icu
 cnllm.com
 codeforces.com
+codewars.com
 codexradar.com
 coke.cf.3666888.xyz
+comet57.cf.090227.xyz
 constitution.congress.gov
 coreweave.com
 cozylife.app
@@ -214,6 +217,7 @@ ctsg.cfyx.aliyun.20237737.xyz
 cu.877774.xyz
 cu.hw.090227.xyz
 cu.zxy88.eu.org
+curseforge.com
 d.lma.de5.net
 da.mfa.gov.ua
 dango.co
@@ -234,6 +238,7 @@ dnew.cc
 dns.163189.xyz
 dogechain.info
 dongbanghong.com
+doordash.com
 down.anycast.mom
 duckybot.xyz
 duggal.com
@@ -265,6 +270,7 @@ form.assaabloy.com
 freeyx.cloudflare88.eu.org
 funko.com
 fw8je9.cf.3666888.xyz
+gamebanana.com
 garuda-indonesia.com
 gateway.ipfsscan.io
 get.pixelexperience.org
@@ -313,6 +319,7 @@ investorrelations.medtronic.com
 ip.sb
 ip.skk.moe
 ippure.com
+iprice.sg
 iskills.com
 isp.254301.xyz
 japan.com
@@ -329,10 +336,12 @@ keji.cf.3666888.xyz
 kernelsu.com
 kick.com
 kickstarter.com
+kinsta.com
 kniu.cc
 komga.aqua-aria.company
 kwiat.com
 leawo.org
+lightnovelpub.com
 linear.app
 linkvertise.com
 liz.us.ci
@@ -350,6 +359,7 @@ mail.zrf.me
 markmonitor.com
 merlin.ns.cloudflare.com
 mfa.gov.ua
+midjourney.com
 missav.ws
 moegirl.icu
 mogas.com
@@ -360,6 +370,7 @@ mox.moxing.lol
 mrmacintosh.com
 mvnrepository.com
 my.vultr.com
+n8n.io
 nas.chinwa.eu.cc
 ncc.gov.ng
 ncdc.gov.ng
@@ -374,6 +385,7 @@ noc.one
 nodejs.org
 nodeloc.cc
 npmjs.com
+obsidian.md
 oo.xzhi.eu.org
 ooo.0o0.ooo
 op.chinwa.eu.cc
@@ -406,6 +418,7 @@ registry.npmjs.org
 registry.yarnpkg.com
 resources.biginterview.com
 rocketreach.co
+royalroad.com
 run.254301.xyz
 s.bookcdn.com
 s.ee
@@ -418,6 +431,7 @@ sb3cdn.sjzhk.top
 sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa
 scalacube.com
 sci-hub.al
+scribblehub.com
 securecircle.com
 sellerlogic.com
 seo.07yue.com
@@ -450,6 +464,7 @@ support.communilink.net
 syncfusion.com
 t.213891.xyz
 tajikistan.mfa.gov.ua
+tarkov-market.com
 test.509666.xyz
 test.cloudflare.182682.xyz
 test2.509666.xyz
@@ -464,6 +479,7 @@ trump.com
 tt.78607323.xyz
 tuite-c0f.pages.dev
 uac.cf.3666888.xyz
+udemy.com
 unpkg.com
 upfile.live
 uptimerobot.com
@@ -484,10 +500,13 @@ vps.cheng2001.top
 vueframework.com
 w3.org
 wallpaperflare.com
+warframe.market
 webn.cc
+webnovel.com
 worldvectorlogo.com
 wppaunz.com
 wsrv.nl
+wuxiaworld.com
 www.090902.xyz
 www.4429.com.cn
 www.5199dy.com
@@ -590,7 +609,6 @@ www.whatismyip.com
 www.whoer.net
 www.wto.org
 www.wuduanyun.com
-www.xflash.vip
 www.xiaoshuofen.com
 www.zendesk.com
 www2.rarbggo.to

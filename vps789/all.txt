@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-09 23:15
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-11 22:53
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
@@ -79,6 +79,7 @@ builtbybuffalo.com:443#builtbybuffalo.com
 buyshoes.shop:443#buyshoes.shop
 c-power.com.cn:443#c-power.com.cn
 c.lma.de5.net:443#c.lma.de5.net
+cal.com:443#cal.com
 carpt.net:443#carpt.net
 cdn.091224.xyz:443#cdn.091224.xyz
 cdn.2020111.xyz:443#cdn.2020111.xyz
@@ -198,8 +199,10 @@ cn.vuejs.org:443#cn.vuejs.org
 cnamefuckxxs.yuchen.icu:443#cnamefuckxxs.yuchen.icu
 cnllm.com:443#cnllm.com
 codeforces.com:443#codeforces.com
+codewars.com:443#codewars.com
 codexradar.com:443#codexradar.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
+comet57.cf.090227.xyz:443#comet57.cf.090227.xyz
 constitution.congress.gov:443#constitution.congress.gov
 coreweave.com:443#coreweave.com
 cozylife.app:443#cozylife.app
@@ -215,6 +218,7 @@ ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 cu.877774.xyz:443#cu.877774.xyz
 cu.hw.090227.xyz:443#cu.hw.090227.xyz
 cu.zxy88.eu.org:443#cu.zxy88.eu.org
+curseforge.com:443#curseforge.com
 d.lma.de5.net:443#d.lma.de5.net
 da.mfa.gov.ua:443#da.mfa.gov.ua
 dango.co:443#dango.co
@@ -235,6 +239,7 @@ dnew.cc:443#dnew.cc
 dns.163189.xyz:443#dns.163189.xyz
 dogechain.info:443#dogechain.info
 dongbanghong.com:443#dongbanghong.com
+doordash.com:443#doordash.com
 down.anycast.mom:443#down.anycast.mom
 duckybot.xyz:443#duckybot.xyz
 duggal.com:443#duggal.com
@@ -266,6 +271,7 @@ form.assaabloy.com:443#form.assaabloy.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 funko.com:443#funko.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+gamebanana.com:443#gamebanana.com
 garuda-indonesia.com:443#garuda-indonesia.com
 gateway.ipfsscan.io:443#gateway.ipfsscan.io
 get.pixelexperience.org:443#get.pixelexperience.org
@@ -314,6 +320,7 @@ investorrelations.medtronic.com:443#investorrelations.medtronic.com
 ip.sb:443#ip.sb
 ip.skk.moe:443#ip.skk.moe
 ippure.com:443#ippure.com
+iprice.sg:443#iprice.sg
 iskills.com:443#iskills.com
 isp.254301.xyz:443#isp.254301.xyz
 japan.com:443#japan.com
@@ -330,10 +337,12 @@ keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 kernelsu.com:443#kernelsu.com
 kick.com:443#kick.com
 kickstarter.com:443#kickstarter.com
+kinsta.com:443#kinsta.com
 kniu.cc:443#kniu.cc
 komga.aqua-aria.company:443#komga.aqua-aria.company
 kwiat.com:443#kwiat.com
 leawo.org:443#leawo.org
+lightnovelpub.com:443#lightnovelpub.com
 linear.app:443#linear.app
 linkvertise.com:443#linkvertise.com
 liz.us.ci:443#liz.us.ci
@@ -351,6 +360,7 @@ mail.zrf.me:443#mail.zrf.me
 markmonitor.com:443#markmonitor.com
 merlin.ns.cloudflare.com:443#merlin.ns.cloudflare.com
 mfa.gov.ua:443#mfa.gov.ua
+midjourney.com:443#midjourney.com
 missav.ws:443#missav.ws
 moegirl.icu:443#moegirl.icu
 mogas.com:443#mogas.com
@@ -361,6 +371,7 @@ mox.moxing.lol:443#mox.moxing.lol
 mrmacintosh.com:443#mrmacintosh.com
 mvnrepository.com:443#mvnrepository.com
 my.vultr.com:443#my.vultr.com
+n8n.io:443#n8n.io
 nas.chinwa.eu.cc:443#nas.chinwa.eu.cc
 ncc.gov.ng:443#ncc.gov.ng
 ncdc.gov.ng:443#ncdc.gov.ng
@@ -375,6 +386,7 @@ noc.one:443#noc.one
 nodejs.org:443#nodejs.org
 nodeloc.cc:443#nodeloc.cc
 npmjs.com:443#npmjs.com
+obsidian.md:443#obsidian.md
 oo.xzhi.eu.org:443#oo.xzhi.eu.org
 ooo.0o0.ooo:443#ooo.0o0.ooo
 op.chinwa.eu.cc:443#op.chinwa.eu.cc
@@ -407,6 +419,7 @@ registry.npmjs.org:443#registry.npmjs.org
 registry.yarnpkg.com:443#registry.yarnpkg.com
 resources.biginterview.com:443#resources.biginterview.com
 rocketreach.co:443#rocketreach.co
+royalroad.com:443#royalroad.com
 run.254301.xyz:443#run.254301.xyz
 s.bookcdn.com:443#s.bookcdn.com
 s.ee:443#s.ee
@@ -419,6 +432,7 @@ sb3cdn.sjzhk.top:443#sb3cdn.sjzhk.top
 sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa:443#sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa
 scalacube.com:443#scalacube.com
 sci-hub.al:443#sci-hub.al
+scribblehub.com:443#scribblehub.com
 securecircle.com:443#securecircle.com
 sellerlogic.com:443#sellerlogic.com
 seo.07yue.com:443#seo.07yue.com
@@ -451,6 +465,7 @@ support.communilink.net:443#support.communilink.net
 syncfusion.com:443#syncfusion.com
 t.213891.xyz:443#t.213891.xyz
 tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
+tarkov-market.com:443#tarkov-market.com
 test.509666.xyz:443#test.509666.xyz
 test.cloudflare.182682.xyz:443#test.cloudflare.182682.xyz
 test2.509666.xyz:443#test2.509666.xyz
@@ -465,6 +480,7 @@ trump.com:443#trump.com
 tt.78607323.xyz:443#tt.78607323.xyz
 tuite-c0f.pages.dev:443#tuite-c0f.pages.dev
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+udemy.com:443#udemy.com
 unpkg.com:443#unpkg.com
 upfile.live:443#upfile.live
 uptimerobot.com:443#uptimerobot.com
@@ -485,10 +501,13 @@ vps.cheng2001.top:443#vps.cheng2001.top
 vueframework.com:443#vueframework.com
 w3.org:443#w3.org
 wallpaperflare.com:443#wallpaperflare.com
+warframe.market:443#warframe.market
 webn.cc:443#webn.cc
+webnovel.com:443#webnovel.com
 worldvectorlogo.com:443#worldvectorlogo.com
 wppaunz.com:443#wppaunz.com
 wsrv.nl:443#wsrv.nl
+wuxiaworld.com:443#wuxiaworld.com
 www.090902.xyz:443#www.090902.xyz
 www.4429.com.cn:443#www.4429.com.cn
 www.5199dy.com:443#www.5199dy.com
@@ -591,7 +610,6 @@ www.whatismyip.com:443#www.whatismyip.com
 www.whoer.net:443#www.whoer.net
 www.wto.org:443#www.wto.org
 www.wuduanyun.com:443#www.wuduanyun.com
-www.xflash.vip:443#www.xflash.vip
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.zendesk.com:443#www.zendesk.com
 www2.rarbggo.to:443#www2.rarbggo.to
