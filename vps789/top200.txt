@@ -1,5 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：10-11 22:53
-01-cctv.com:443#01-cctv.com
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：10-13 23:55
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 1.cfip.xiaolicdn.cn:443#1.cfip.xiaolicdn.cn
@@ -199,4 +198,5 @@ cn.vuejs.org:443#cn.vuejs.org
 cnamefuckxxs.yuchen.icu:443#cnamefuckxxs.yuchen.icu
 cnllm.com:443#cnllm.com
 codeforces.com:443#codeforces.com
+codewars.com:443#codewars.com
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测

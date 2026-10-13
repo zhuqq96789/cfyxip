@@ -1,5 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top10 | 数据更新时间：10-11 22:53
-01-cctv.com:443#01-cctv.com
+ai7777777.zhuqq.qzz.io:443#▼ top10 | 数据更新时间：10-13 23:55
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 1.cfip.xiaolicdn.cn:443#1.cfip.xiaolicdn.cn
@@ -9,4 +8,5 @@ ai7777777.zhuqq.qzz.io:443#▼ top10 | 数据更新时间：10-11 22:53
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 111.cf.cname.vvhan.com:443#111.cf.cname.vvhan.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
+131.youxuan.cf.090227.xyz:443#131.youxuan.cf.090227.xyz
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
