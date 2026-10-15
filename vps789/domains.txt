@@ -13,7 +13,6 @@
 2.cf.3666888.xyz
 2.cfip.xiaolicdn.cn
 224322.xyz
-2x.nz
 3.cf.3666888.xyz
 3.cfip.xiaolicdn.cn
 336688.chinwa.eu.cc
@@ -70,6 +69,7 @@ bestcf.top
 bestcfv4.030101.xyz
 bitsight.com
 bizclikmedia.com
+blog.646474.xyz
 blog.cloudflare.com
 blog.raindew.576555.xyz
 brandstudio.com
