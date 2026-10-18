@@ -186,6 +186,7 @@ cloudflare.com
 cloudflare.idc.rocks
 cloudflare.net
 cloudflare.rainyfall.com
+cloudflare.seeck.cn
 cloudflare.tv
 cm.cf.090902.xyz
 cm.edu.kg
@@ -322,6 +323,7 @@ ippure.com
 iprice.sg
 iskills.com
 isp.254301.xyz
+isp.qzz.io
 japan.com
 jellyfin.roddy.eu.cc
 jobsdb.com

@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-16 21:13
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-18 20:35
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 1.cf.636949.xyz:443#1.cf.636949.xyz
@@ -187,6 +187,7 @@ cloudflare.com:443#cloudflare.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cloudflare.net:443#cloudflare.net
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+cloudflare.seeck.cn:443#cloudflare.seeck.cn
 cloudflare.tv:443#cloudflare.tv
 cm.cf.090902.xyz:443#cm.cf.090902.xyz
 cm.edu.kg:443#cm.edu.kg
@@ -323,6 +324,7 @@ ippure.com:443#ippure.com
 iprice.sg:443#iprice.sg
 iskills.com:443#iskills.com
 isp.254301.xyz:443#isp.254301.xyz
+isp.qzz.io:443#isp.qzz.io
 japan.com:443#japan.com
 jellyfin.roddy.eu.cc:443#jellyfin.roddy.eu.cc
 jobsdb.com:443#jobsdb.com
