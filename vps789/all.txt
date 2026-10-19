@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-18 20:35
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-19 23:33
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 1.cf.636949.xyz:443#1.cf.636949.xyz
@@ -136,6 +136,7 @@ cf.godns.cc:443#cf.godns.cc
 cf.i0.du0.org:443#cf.i0.du0.org
 cf.itv888.cn:443#cf.itv888.cn
 cf.legspcpd.furry.bz:443#cf.legspcpd.furry.bz
+cf.legspcpd.top:443#cf.legspcpd.top
 cf.mubaiovo.top:443#cf.mubaiovo.top
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
@@ -430,7 +431,6 @@ saas.sin.fan:443#saas.sin.fan
 salaryexpert.com:443#salaryexpert.com
 sanctuarywealth.com:443#sanctuarywealth.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
-sb3cdn.sjzhk.top:443#sb3cdn.sjzhk.top
 sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa:443#sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa
 scalacube.com:443#scalacube.com
 sci-hub.al:443#sci-hub.al

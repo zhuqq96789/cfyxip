@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：10-18 20:35
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：10-19 23:33
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 1.cf.636949.xyz:443#1.cf.636949.xyz
@@ -136,6 +136,7 @@ cf.godns.cc:443#cf.godns.cc
 cf.i0.du0.org:443#cf.i0.du0.org
 cf.itv888.cn:443#cf.itv888.cn
 cf.legspcpd.furry.bz:443#cf.legspcpd.furry.bz
+cf.legspcpd.top:443#cf.legspcpd.top
 cf.mubaiovo.top:443#cf.mubaiovo.top
 cf.neko.cloudd.eu.org:443#cf.neko.cloudd.eu.org
 cf.neko.cloudflaree.eu.org:443#cf.neko.cloudflaree.eu.org
@@ -198,5 +199,4 @@ cmcc.hw.090227.xyz:443#cmcc.hw.090227.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cn.vuejs.org:443#cn.vuejs.org
 cnamefuckxxs.yuchen.icu:443#cnamefuckxxs.yuchen.icu
-cnllm.com:443#cnllm.com
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测
