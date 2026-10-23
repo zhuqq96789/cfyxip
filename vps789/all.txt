@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-22 21:44
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-23 21:27
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 1.cf.636949.xyz:443#1.cf.636949.xyz
@@ -81,6 +81,7 @@ c-power.com.cn:443#c-power.com.cn
 c.lma.de5.net:443#c.lma.de5.net
 cal.com:443#cal.com
 carpt.net:443#carpt.net
+cd.cloudflare.19931110.xyz:443#cd.cloudflare.19931110.xyz
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cdn.204910.best:443#cdn.204910.best
 cdn.2158.cc:443#cdn.2158.cc
