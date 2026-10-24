@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：10-23 21:27
+ai7777777.zhuqq.qzz.io:443#▼ top200 | 数据更新时间：10-24 20:39
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 1.cf.636949.xyz:443#1.cf.636949.xyz
@@ -170,6 +170,7 @@ cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 cfyx.dnspod.20237737.xyz:443#cfyx.dnspod.20237737.xyz
 cfyx.ip.du0.org:443#cfyx.ip.du0.org
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
+cfyx.sjzhk.top:443#cfyx.sjzhk.top
 challenges.cloudflare.com:443#challenges.cloudflare.com
 chat.hashi.sbs:443#chat.hashi.sbs
 china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
@@ -198,5 +199,4 @@ cmcc.cc.cd:443#cmcc.cc.cd
 cmcc.hw.090227.xyz:443#cmcc.hw.090227.xyz
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cn.vuejs.org:443#cn.vuejs.org
-cnamefuckxxs.yuchen.icu:443#cnamefuckxxs.yuchen.icu
 ct.1.zhuqq.qzz.io:443#▲ 优选域名 | VPS789 7*24监测

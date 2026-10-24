@@ -169,6 +169,7 @@ cfyx.aliyun.20237737.xyz
 cfyx.dnspod.20237737.xyz
 cfyx.ip.du0.org
 cfyx.qdqqd.com
+cfyx.sjzhk.top
 challenges.cloudflare.com
 chat.hashi.sbs
 china-mobile.cname.cloudflare.468123.xyz
@@ -333,6 +334,8 @@ journeys.com
 jp.cf.3666888.xyz
 jquery.com
 js.org
+jt.sld.tw
+jzyx.sjzhk.top
 kali.download
 kaspa.stream
 keji.cf.3666888.xyz
@@ -619,6 +622,7 @@ xiaoqi.de
 xn--b6gac.eu.org
 xslist.org
 xx.knit.bid
+xzyx.sjzhk.top
 yd.hhhhh.eu.org
 yd.zhuqq.qzz.io
 yfvsdf.cf.3666888.xyz
@@ -641,7 +645,10 @@ youxuan.cf.3666888.xyz
 youxuan.cf.636949.xyz
 yx.cf.090227.xyz
 yx.oracle-img.eu.org
+yxip.cdn.sjzhk.top
+yxip.jzyx.sjzhk.top
 yxip.xxxxxxxx.tk
+yxip.xzyx.sjzhk.top
 zabc.net
 zen-browser.app
 zero-trust-client.cloudflareclient.com
