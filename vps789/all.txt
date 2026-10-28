@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-26 23:08
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-28 23:04
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 1.cf.636949.xyz:443#1.cf.636949.xyz
@@ -323,6 +323,7 @@ investor.apple.com:443#investor.apple.com
 investorrelations.medtronic.com:443#investorrelations.medtronic.com
 ip.sb:443#ip.sb
 ip.skk.moe:443#ip.skk.moe
+iphey.com:443#iphey.com
 ippure.com:443#ippure.com
 iprice.sg:443#iprice.sg
 iskills.com:443#iskills.com
@@ -406,6 +407,7 @@ page.mercer.com:443#page.mercer.com
 pages.cloudflare.com:443#pages.cloudflare.com
 ping.ctrl.li:443#ping.ctrl.li
 ping.pe:443#ping.pe
+pixelscan.net:443#pixelscan.net
 play.mc.js.cool:443#play.mc.js.cool
 prizepicks.com:443#prizepicks.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
@@ -614,6 +616,7 @@ www.visa.com.tw:443#www.visa.com.tw
 www.vmware.com:443#www.vmware.com
 www.whatismyip.com:443#www.whatismyip.com
 www.whoer.net:443#www.whoer.net
+www.wish.com:443#www.wish.com
 www.wto.org:443#www.wto.org
 www.wuduanyun.com:443#www.wuduanyun.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com

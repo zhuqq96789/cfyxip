@@ -322,6 +322,7 @@ investor.apple.com
 investorrelations.medtronic.com
 ip.sb
 ip.skk.moe
+iphey.com
 ippure.com
 iprice.sg
 iskills.com
@@ -405,6 +406,7 @@ page.mercer.com
 pages.cloudflare.com
 ping.ctrl.li
 ping.pe
+pixelscan.net
 play.mc.js.cool
 prizepicks.com
 prompt.gzcrtw.com
@@ -613,6 +615,7 @@ www.visa.com.tw
 www.vmware.com
 www.whatismyip.com
 www.whoer.net
+www.wish.com
 www.wto.org
 www.wuduanyun.com
 www.xiaoshuofen.com
