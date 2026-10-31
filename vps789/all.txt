@@ -1,4 +1,4 @@
-ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-29 23:11
+ai7777777.zhuqq.qzz.io:443#▼ all | 数据更新时间：10-31 22:30
 01-qq.com:443#01-qq.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 1.cf.636949.xyz:443#1.cf.636949.xyz
@@ -67,6 +67,7 @@ avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
 baota.us.kg:443#baota.us.kg
 bbs.alipansou.com:443#bbs.alipansou.com
+best.hzample.kdns.fr:443#best.hzample.kdns.fr
 bestcf.030101.xyz:443#bestcf.030101.xyz
 bestcf.top:443#bestcf.top
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
